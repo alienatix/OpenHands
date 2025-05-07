@@ -93,7 +93,7 @@
         "fr": "Annuler",
         "tr": "İptal",
         "de": "Abbrechen",
-        "uk": "Cancel"
+        "uk": "Скасувати"
     },
     "SETTINGS$MCP_APPLY_CHANGES": {
         "en": "Apply Changes",
@@ -109,7 +109,7 @@
         "fr": "Appliquer les modifications",
         "tr": "Değişiklikleri Uygula",
         "de": "Änderungen anwenden",
-        "uk": "Apply Changes"
+        "uk": "Застосувати зміни"
     },
     "SETTINGS$MCP_CONFIG_DESCRIPTION": {
         "en": "Edit the JSON configuration for MCP servers below. The configuration must include both sse_servers and stdio_servers arrays.",
@@ -125,7 +125,7 @@
         "fr": "Modifiez la configuration JSON pour les serveurs MCP ci-dessous. La configuration doit inclure à la fois les tableaux sse_servers et stdio_servers.",
         "tr": "Aşağıdaki MCP sunucuları için JSON yapılandırmasını düzenleyin. Yapılandırma hem sse_servers hem de stdio_servers dizilerini içermelidir.",
         "de": "Bearbeiten Sie die JSON-Konfiguration für MCP-Server unten. Die Konfiguration muss sowohl sse_servers- als auch stdio_servers-Arrays enthalten.",
-        "uk": "Edit the JSON configuration for MCP servers below. The configuration must include both sse_servers and stdio_servers arrays."
+        "uk": "Відредагуйте JSON-конфігурацію для серверів MCP нижче. Конфігурація повинна включати масиви sse_servers та stdio_servers."
     },
     "SETTINGS$MCP_CONFIG_ERROR": {
         "en": "Error:",
@@ -141,7 +141,7 @@
         "fr": "Erreur :",
         "tr": "Hata:",
         "de": "Fehler:",
-        "uk": "Error:"
+        "uk": "Помилка:"
     },
     "SETTINGS$MCP_CONFIG_EXAMPLE": {
         "en": "Example:",
@@ -157,7 +157,7 @@
         "fr": "Exemple :",
         "tr": "Örnek:",
         "de": "Beispiel:",
-        "uk": "Example:"
+        "uk": "Приклад:"
     },
     "SETTINGS$MCP_NO_SERVERS_CONFIGURED": {
         "en": "No MCP servers are currently configured. Click \"Edit Configuration\" to add servers.",
@@ -173,7 +173,7 @@
         "fr": "Aucun serveur MCP n'est actuellement configuré. Cliquez sur \"Modifier la configuration\" pour ajouter des serveurs.",
         "tr": "Şu anda yapılandırılmış MCP sunucusu yok. Sunucu eklemek için \"Yapılandırmayı Düzenle\"yi tıklayın.",
         "de": "Derzeit sind keine MCP-Server konfiguriert. Klicken Sie auf \"Konfiguration bearbeiten\", um Server hinzuzufügen.",
-        "uk": "No MCP servers are currently configured. Click \"Edit Configuration\" to add servers."
+        "uk": "Наразі не налаштовано жодного сервера MCP. Натисніть \"Редагувати налаштування\", щоб додати сервери."
     },
     "SETTINGS$MCP_SSE_SERVERS": {
         "en": "SSE Servers",
@@ -189,7 +189,7 @@
         "fr": "Serveurs SSE",
         "tr": "SSE Sunucuları",
         "de": "SSE-Server",
-        "uk": "SSE Servers"
+        "uk": "Сервери SSE"
     },
     "SETTINGS$MCP_STDIO_SERVERS": {
         "en": "Stdio Servers",
@@ -205,7 +205,7 @@
         "fr": "Serveurs Stdio",
         "tr": "Stdio Sunucuları",
         "de": "Stdio-Server",
-        "uk": "Stdio Servers"
+        "uk": "Сервери Stdio"
     },
     "SETTINGS$MCP_API_KEY": {
         "en": "API Key",
@@ -221,7 +221,7 @@
         "fr": "Clé API",
         "tr": "API Anahtarı",
         "de": "API-Schlüssel",
-        "uk": "API Key"
+        "uk": "API-ключ"
     },
     "SETTINGS$MCP_API_KEY_NOT_SET": {
         "en": "Not set",
@@ -237,7 +237,7 @@
         "fr": "Non défini",
         "tr": "Ayarlanmadı",
         "de": "Nicht festgelegt",
-        "uk": "Not set"
+        "uk": "Не встановлено"
     },
     "SETTINGS$MCP_COMMAND": {
         "en": "Command",
@@ -253,7 +253,7 @@
         "fr": "Commande",
         "tr": "Komut",
         "de": "Befehl",
-        "uk": "Command"
+        "uk": "Команда"
     },
     "SETTINGS$MCP_ARGS": {
         "en": "Args",
@@ -269,7 +269,7 @@
         "fr": "Arguments",
         "tr": "Argümanlar",
         "de": "Argumente",
-        "uk": "Args"
+        "uk": "Аргументи"
     },
     "SETTINGS$MCP_ENV": {
         "en": "Env",
@@ -285,7 +285,7 @@
         "fr": "Environnement",
         "tr": "Ortam",
         "de": "Umgebung",
-        "uk": "Env"
+        "uk": "Середовище"
     },
     "SETTINGS$MCP_NAME": {
         "en": "Name",
@@ -301,7 +301,7 @@
         "fr": "Nom",
         "tr": "İsim",
         "de": "Name",
-        "uk": "Name"
+        "uk": "Назва"
     },
     "SETTINGS$MCP_URL": {
         "en": "URL",
@@ -333,7 +333,7 @@
         "fr": "En savoir plus",
         "tr": "Daha fazla bilgi",
         "de": "Mehr erfahren",
-        "uk": "Learn more"
+        "uk": "Дізнайтеся більше"
     },
     "SETTINGS$MCP_ERROR_SSE_ARRAY": {
         "en": "sse_servers must be an array",
@@ -349,7 +349,7 @@
         "fr": "sse_servers doit être un tableau",
         "tr": "sse_servers bir dizi olmalıdır",
         "de": "sse_servers muss ein Array sein",
-        "uk": "sse_servers must be an array"
+        "uk": "sse_servers повинна бути масивом"
     },
     "SETTINGS$MCP_ERROR_STDIO_ARRAY": {
         "en": "stdio_servers must be an array",
@@ -365,7 +365,7 @@
         "fr": "stdio_servers doit être un tableau",
         "tr": "stdio_servers bir dizi olmalıdır",
         "de": "stdio_servers muss ein Array sein",
-        "uk": "stdio_servers must be an array"
+        "uk": "stdio_servers повинна бути масивом"
     },
     "SETTINGS$MCP_ERROR_SSE_URL": {
         "en": "Each SSE server must be a string URL or have a url property",
@@ -381,7 +381,7 @@
         "fr": "Chaque serveur SSE doit être une URL de chaîne ou avoir une propriété url",
         "tr": "Her SSE sunucusu bir dize URL'si olmalı veya bir url özelliğine sahip olmalıdır",
         "de": "Jeder SSE-Server muss eine String-URL sein oder eine URL-Eigenschaft haben",
-        "uk": "Each SSE server must be a string URL or have a url property"
+        "uk": "Кожний SSE сервер повинен бути строкою URL або мати url властивість"
     },
     "SETTINGS$MCP_ERROR_STDIO_PROPS": {
         "en": "Each stdio server must have name and command properties",
@@ -397,7 +397,7 @@
         "fr": "Chaque serveur stdio doit avoir les propriétés name et command",
         "tr": "Her stdio sunucusu name ve command özelliklerine sahip olmalıdır",
         "de": "Jeder stdio-Server muss die Eigenschaften name und command haben",
-        "uk": "Each stdio server must have name and command properties"
+        "uk": "Кожний stdio сервер повинен мати ім'я та командні властивості"
     },
     "SETTINGS$MCP_ERROR_INVALID_JSON": {
         "en": "Invalid JSON",
@@ -413,7 +413,7 @@
         "fr": "JSON invalide",
         "tr": "Geçersiz JSON",
         "de": "Ungültiges JSON",
-        "uk": "Invalid JSON"
+        "uk": "Невірний JSON"
     },
     "SETTINGS$MCP_DEFAULT_CONFIG": {
         "en": "{\n  \"sse_servers\": [],\n  \"stdio_servers\": []\n}",
@@ -445,7 +445,7 @@
         "fr": "Pour commencer avec les tâches suggérées, veuillez connecter votre compte GitHub ou GitLab.",
         "tr": "Önerilen görevlerle başlamak için lütfen GitHub veya GitLab hesabınızı bağlayın.",
         "de": "Um mit vorgeschlagenen Aufgaben zu beginnen, verbinden Sie bitte Ihr GitHub- oder GitLab-Konto.",
-        "uk": "To get started with suggested tasks, please connect your GitHub or GitLab account."
+        "uk": "Щоб розпочати роботу з запропонованими завданнями, підключіть свій обліковий запис GitHub або GitLab."
     },
     "HOME$LETS_START_BUILDING": {
         "en": "Let's Start Building!",
@@ -461,7 +461,7 @@
         "fr": "Commençons à construire !",
         "tr": "Hadi İnşa Etmeye Başlayalım!",
         "de": "Lass uns anfangen zu bauen!",
-        "uk": "Let's Start Building!"
+        "uk": "Почнімо будувати!"
     },
     "HOME$OPENHANDS_DESCRIPTION": {
         "en": "OpenHands makes it easy to build and maintain software using AI-driven development.",
@@ -477,7 +477,7 @@
         "fr": "OpenHands facilite la création et la maintenance de logiciels grâce au développement piloté par l'IA.",
         "tr": "OpenHands, yapay zeka destekli geliştirme kullanarak yazılım oluşturmayı ve sürdürmeyi kolaylaştırır.",
         "de": "OpenHands macht es einfach, Software mit KI-gesteuerter Entwicklung zu erstellen und zu warten.",
-        "uk": "OpenHands makes it easy to build and maintain software using AI-driven development."
+        "uk": "OpenHands спрощує створення та підтримку програмного забезпечення за допомогою розробки на основі штучного інтелекту."
     },
     "HOME$NOT_SURE_HOW_TO_START": {
         "en": "Not sure how to start?",
@@ -493,7 +493,7 @@
         "fr": "Vous ne savez pas par où commencer ?",
         "tr": "Nasıl başlayacağınızdan emin değil misiniz?",
         "de": "Nicht sicher, wie man anfängt?",
-        "uk": "Not sure how to start?"
+        "uk": "Не знаєте, як почати?"
     },
     "HOME$CONNECT_TO_REPOSITORY": {
         "en": "Connect to a Repository",
@@ -509,7 +509,7 @@
         "fr": "Se connecter à un dépôt",
         "tr": "Bir Depoya Bağlan",
         "de": "Mit einem Repository verbinden",
-        "uk": "Connect to a Repository"
+        "uk": "Підключіть до репозиторій"
     },
     "HOME$LOADING": {
         "en": "Loading...",
@@ -525,7 +525,7 @@
         "fr": "Chargement...",
         "tr": "Yükleniyor...",
         "de": "Wird geladen...",
-        "uk": "Loading..."
+        "uk": "Завантаження..."
     },
     "HOME$LOADING_REPOSITORIES": {
         "en": "Loading repositories...",
@@ -541,7 +541,7 @@
         "fr": "Chargement des dépôts...",
         "tr": "Depolar yükleniyor...",
         "de": "Repositories werden geladen...",
-        "uk": "Loading repositories..."
+        "uk": "Завантаження репозиторіїв..."
     },
     "HOME$FAILED_TO_LOAD_REPOSITORIES": {
         "en": "Failed to load repositories",
@@ -557,7 +557,7 @@
         "fr": "Échec du chargement des dépôts",
         "tr": "Depolar yüklenemedi",
         "de": "Fehler beim Laden der Repositories",
-        "uk": "Failed to load repositories"
+        "uk": "Не вдалося завантажити репозиторії"
     },
     "HOME$LOADING_BRANCHES": {
         "en": "Loading branches...",
@@ -573,7 +573,7 @@
         "fr": "Chargement des branches...",
         "tr": "Dallar yükleniyor...",
         "de": "Lade Branches...",
-        "uk": "Loading branches..."
+        "uk": "Завантаження гілок..."
     },
     "HOME$FAILED_TO_LOAD_BRANCHES": {
         "en": "Failed to load branches",
@@ -589,7 +589,7 @@
         "fr": "Échec du chargement des branches",
         "tr": "Dallar yüklenemedi",
         "de": "Fehler beim Laden der Branches",
-        "uk": "Failed to load branches"
+        "uk": "Не вдалося завантажити гілки"
     },
     "HOME$OPEN_ISSUE": {
         "en": "Open issue",
@@ -605,7 +605,7 @@
         "fr": "Problème ouvert",
         "tr": "Açık sorun",
         "de": "Offenes Problem",
-        "uk": "Open issue"
+        "uk": "Повідомити про проблему"
     },
     "HOME$FIX_FAILING_CHECKS": {
         "en": "Fix failing checks",
@@ -621,7 +621,7 @@
         "fr": "Corriger les vérifications échouées",
         "tr": "Başarısız kontrolleri düzelt",
         "de": "Fehlgeschlagene Prüfungen beheben",
-        "uk": "Fix failing checks"
+        "uk": "Виправити невдалі перевірки"
     },
     "HOME$RESOLVE_MERGE_CONFLICTS": {
         "en": "Resolve merge conflicts",
@@ -637,7 +637,7 @@
         "fr": "Résoudre les conflits de fusion",
         "tr": "Birleştirme çakışmalarını çöz",
         "de": "Merge-Konflikte lösen",
-        "uk": "Resolve merge conflicts"
+        "uk": "Вирішити конфлікти злиття"
     },
     "HOME$RESOLVE_UNRESOLVED_COMMENTS": {
         "en": "Resolve unresolved comments",
@@ -653,7 +653,7 @@
         "fr": "Résoudre les commentaires non résolus",
         "tr": "Çözülmemiş yorumları çöz",
         "de": "Ungelöste Kommentare beheben",
-        "uk": "Resolve unresolved comments"
+        "uk": "Вирішити невирішені коментарі"
     },
     "HOME$LAUNCH": {
         "en": "Launch",
@@ -669,7 +669,7 @@
         "fr": "Lancer",
         "tr": "Başlat",
         "de": "Starten",
-        "uk": "Launch"
+        "uk": "Запуск"
     },
     "CHAT$RESOLVER_INSTRUCTIONS": {
         "en": "Resolver Instructions",
@@ -685,7 +685,7 @@
         "fr": "Instructions du résolveur",
         "tr": "Çözümleyici Talimatları",
         "de": "Resolver-Anweisungen",
-        "uk": "Resolver Instructions"
+        "uk": "Інструкції для вирішувача"
     },
     "SETTINGS$ADVANCED": {
         "en": "Advanced",
@@ -701,7 +701,7 @@
         "fr": "Avancé",
         "tr": "Gelişmiş",
         "de": "Erweitert",
-        "uk": "Advanced"
+        "uk": "Розширений"
     },
     "SETTINGS$BASE_URL": {
         "en": "Base URL",
@@ -717,7 +717,7 @@
         "fr": "URL de base",
         "tr": "Temel URL",
         "de": "Basis-URL",
-        "uk": "Base URL"
+        "uk": "Базовий URL"
     },
     "SETTINGS$AGENT": {
         "en": "Agent",
@@ -733,7 +733,7 @@
         "fr": "Agent",
         "tr": "Ajan",
         "de": "Agent",
-        "uk": "Agent"
+        "uk": "Агент"
     },
     "SETTINGS$ENABLE_MEMORY_CONDENSATION": {
         "en": "Enable memory condensation",
@@ -749,7 +749,7 @@
         "fr": "Activer la condensation de mémoire",
         "tr": "Bellek yoğunlaştırmayı etkinleştir",
         "de": "Speicherkondensation aktivieren",
-        "uk": "Enable memory condensation"
+        "uk": "Увімкнути конденсацію пам'яті"
     },
     "SETTINGS$LANGUAGE": {
         "en": "Language",
@@ -781,7 +781,7 @@
         "fr": "Pousser vers la branche",
         "tr": "Dala İtme",
         "de": "Zum Branch pushen",
-        "uk": "Push to Branch"
+        "uk": "Надіслати у гілку"
     },
     "ACTION$PUSH_CREATE_PR": {
         "en": "Push & Create PR",
@@ -797,7 +797,7 @@
         "fr": "Pousser et créer une PR",
         "tr": "İtme ve PR Oluştur",
         "de": "Pushen & PR erstellen",
-        "uk": "Push & Create PR"
+        "uk": "Надіслати & Створити PR"
     },
     "ACTION$PUSH_CHANGES_TO_PR": {
         "en": "Push changes to PR",
@@ -813,7 +813,7 @@
         "fr": "Pousser les modifications vers la PR",
         "tr": "Değişiklikleri PR'a İtme",
         "de": "Änderungen zum PR pushen",
-        "uk": "Push changes to PR"
+        "uk": "Надіслати зміти в PR"
     },
     "ANALYTICS$TITLE": {
         "en": "Your Privacy Preferences",
@@ -829,7 +829,7 @@
         "fr": "Vos préférences de confidentialité",
         "tr": "Gizlilik Tercihleriniz",
         "de": "Ihre Datenschutzeinstellungen",
-        "uk": "Your Privacy Preferences"
+        "uk": "Ваші налаштування конфіденційності"
     },
     "ANALYTICS$DESCRIPTION": {
         "en": "We use tools to understand how our application is used to improve your experience. You can enable or disable analytics. Your preferences will be stored and can be updated anytime.",
@@ -845,7 +845,7 @@
         "fr": "Nous utilisons des outils pour comprendre comment notre application est utilisée afin d'améliorer votre expérience. Vous pouvez activer ou désactiver les analyses. Vos préférences seront stockées et peuvent être mises à jour à tout moment.",
         "tr": "Uygulamamızın deneyiminizi geliştirmek için nasıl kullanıldığını anlamak için araçlar kullanıyoruz. Analitiği etkinleştirebilir veya devre dışı bırakabilirsiniz. Tercihleriniz saklanacak ve istediğiniz zaman güncellenebilir.",
         "de": "Wir verwenden Tools, um zu verstehen, wie unsere Anwendung genutzt wird, um Ihre Erfahrung zu verbessern. Sie können Analysen aktivieren oder deaktivieren. Ihre Einstellungen werden gespeichert und können jederzeit aktualisiert werden.",
-        "uk": "We use tools to understand how our application is used to improve your experience. You can enable or disable analytics. Your preferences will be stored and can be updated anytime."
+        "uk": "Ми використовуємо інструменти, щоб зрозуміти, як використовується наш додаток, для покращення вашого досвіду. Ви можете ввімкнути або вимкнути аналітику. Ваші налаштування будуть збережені та можуть бути оновлені будь-коли."
     },
     "ANALYTICS$SEND_ANONYMOUS_DATA": {
         "en": "Send anonymous usage data",
@@ -861,7 +861,7 @@
         "fr": "Envoyer des données d'utilisation anonymes",
         "tr": "Anonim kullanım verilerini gönder",
         "de": "Anonyme Nutzungsdaten senden",
-        "uk": "Send anonymous usage data"
+        "uk": "Надсилати анонімні дані про використання"
     },
     "ANALYTICS$CONFIRM_PREFERENCES": {
         "en": "Confirm Preferences",
@@ -877,7 +877,7 @@
         "fr": "Confirmer les préférences",
         "tr": "Tercihleri Onayla",
         "de": "Einstellungen bestätigen",
-        "uk": "Confirm Preferences"
+        "uk": "Підтвердити налаштування"
     },
     "SETTINGS$SAVING": {
         "en": "Saving...",
@@ -893,7 +893,7 @@
         "fr": "Enregistrement en cours...",
         "tr": "Kayıt yapılıyor...",
         "de": "Speichern...",
-        "uk": "Saving..."
+        "uk": "Зберігаю..."
     },
     "SETTINGS$SAVE_CHANGES": {
         "en": "Save Changes",
@@ -909,7 +909,7 @@
         "fr": "Enregistrer les modifications",
         "tr": "Değişiklikleri Kaydet",
         "de": "Änderungen speichern",
-        "uk": "Save Changes"
+        "uk": "Зберегти зміни"
     },
     "SETTINGS$NAV_GIT": {
         "en": "Git",
@@ -941,7 +941,7 @@
         "fr": "Application",
         "tr": "Uygulama",
         "de": "Anwendung",
-        "uk": "Application"
+        "uk": "Додаток"
     },
     "SETTINGS$NAV_CREDITS": {
         "en": "Credits",
@@ -957,7 +957,7 @@
         "fr": "Crédits",
         "tr": "Krediler",
         "de": "Guthaben",
-        "uk": "Credits"
+        "uk": "Кредити"
     },
     "SETTINGS$NAV_API_KEYS": {
         "en": "API Keys",
@@ -973,7 +973,7 @@
         "fr": "Clés API",
         "tr": "API Anahtarları",
         "de": "API-Schlüssel",
-        "uk": "API Keys"
+        "uk": "API ключі"
     },
     "SETTINGS$NAV_LLM": {
         "en": "LLM",
@@ -1005,7 +1005,7 @@
         "fr": "Demande de fusion",
         "tr": "Birleştirme İsteği",
         "de": "Merge-Anfrage",
-        "uk": "Merge Request"
+        "uk": "Запит на злиття"
     },
     "GIT$GITLAB_API": {
         "en": "GitLab API",
@@ -1037,7 +1037,7 @@
         "fr": "Demande de tirage",
         "tr": "Çekme İsteği",
         "de": "Pull Request",
-        "uk": "Pull Request"
+        "uk": "Запит на злиття"
     },
     "GIT$GITHUB_API": {
         "en": "GitHub API",
@@ -1070,7 +1070,7 @@
         "tr": "Panoya kopyala",
         "de": "In die Zwischenablage kopieren",
         "fa": "کپی به کلیپ‌بورد",
-        "uk": "Copy to clipboard"
+        "uk": "Копіювати в буфер обміну"
     },
     "BUTTON$COPIED": {
         "en": "Copied to clipboard",
@@ -1119,7 +1119,7 @@
         "fr": "Navigateur",
         "tr": "Tarayıcı",
         "de": "Browser",
-        "uk": "Browser"
+        "uk": "Браузер"
     },
     "BROWSER$EMPTY_MESSAGE": {
         "en": "If you tell OpenHands to start a web server, the app will appear here.",
@@ -1135,7 +1135,7 @@
         "fr": "Si vous demandez à OpenHands de démarrer un serveur web, l'application apparaîtra ici.",
         "tr": "OpenHands'e bir web sunucusu başlatmasını söylerseniz, uygulama burada görünecektir.",
         "de": "Wenn Sie OpenHands anweisen, einen Webserver zu starten, erscheint die App hier.",
-        "uk": "If you tell OpenHands to start a web server, the app will appear here."
+        "uk": "Якщо ви накажете OpenHands запустити вебсервер, програма з'явиться тут."
     },
     "SETTINGS$TITLE": {
         "en": "Settings",
@@ -1151,7 +1151,7 @@
         "fr": "Paramètres",
         "tr": "Ayarlar",
         "de": "Einstellungen",
-        "uk": "Settings"
+        "uk": "Налаштування"
     },
     "CONVERSATION$START_NEW": {
         "en": "Start new conversation",
@@ -1167,7 +1167,7 @@
         "fr": "Démarrer une nouvelle conversation",
         "tr": "Yeni sohbet başlat",
         "de": "Neue Unterhaltung starten",
-        "uk": "Start new conversation"
+        "uk": "Почати нову розмову"
     },
     "ACCOUNT_SETTINGS$TITLE": {
         "en": "Account Settings",
@@ -1183,7 +1183,7 @@
         "fr": "Paramètres du compte",
         "tr": "Hesap ayarları",
         "de": "Kontoeinstellungen",
-        "uk": "Account Settings"
+        "uk": "Налаштування облікового запису"
     },
     "WORKSPACE$TERMINAL_TAB_LABEL": {
         "en": "Terminal",
@@ -1199,7 +1199,7 @@
         "fr": "Terminal",
         "tr": "Terminal",
         "ja": "ターミナル",
-        "uk": "Terminal"
+        "uk": "Термінал"
     },
     "WORKSPACE$BROWSER_TAB_LABEL": {
         "en": "Browser",
@@ -1215,7 +1215,7 @@
         "fr": "Navigateur",
         "tr": "Tarayıcı",
         "ja": "ブラウザ",
-        "uk": "Browser"
+        "uk": "Браузер"
     },
     "WORKSPACE$JUPYTER_TAB_LABEL": {
         "en": "Jupyter",
@@ -1247,7 +1247,7 @@
         "fr": "Éditeur de code",
         "tr": "Kod Düzenleyici",
         "ja": "コードエディタ",
-        "uk": "Code Editor"
+        "uk": "Редактор коду"
     },
     "WORKSPACE$TITLE": {
         "en": "Workspace",
@@ -1263,7 +1263,7 @@
         "fr": "Espace de travail",
         "tr": "Çalışma Alanı",
         "ja": "ワークスペース",
-        "uk": "Workspace"
+        "uk": "Робочий простір"
     },
     "TERMINAL$WAITING_FOR_CLIENT": {
         "en": "Waiting for client to become ready...",
@@ -1279,7 +1279,7 @@
         "ar": "في انتظار جاهزية العميل...",
         "fr": "En attente de la disponibilité du client...",
         "tr": "İstemcinin hazır olması bekleniyor...",
-        "uk": "Waiting for client to become ready..."
+        "uk": "Чекаємо на готовність клієнта..."
     },
     "CODE_EDITOR$FILE_SAVED_SUCCESSFULLY": {
         "en": "File saved successfully",
@@ -1295,7 +1295,7 @@
         "fr": "Fichier enregistré avec succès",
         "tr": "Dosya başarıyla kaydedildi",
         "ja": "ファイルが正常に保存されました",
-        "uk": "File saved successfully"
+        "uk": "Файл успішно збережено"
     },
     "CODE_EDITOR$SAVING_LABEL": {
         "en": "Saving...",
@@ -1311,7 +1311,7 @@
         "fr": "Enregistrement en cours...",
         "tr": "Kayıt yapılıyor...",
         "ja": "保存中...",
-        "uk": "Saving..."
+        "uk": "Збереження..."
     },
     "CODE_EDITOR$SAVE_LABEL": {
         "en": "Save",
@@ -1327,7 +1327,7 @@
         "fr": "Enregistrer",
         "tr": "Kayıt",
         "ja": "保存",
-        "uk": "Save"
+        "uk": "Зберегти"
     },
     "CODE_EDITOR$OPTIONS": {
         "en": "Options",
@@ -1343,7 +1343,7 @@
         "fr": "Options",
         "tr": "Seçenekler",
         "ja": "オプション",
-        "uk": "Options"
+        "uk": "Опції"
     },
     "CODE_EDITOR$FILE_SAVE_ERROR": {
         "en": "An unknown error occurred while saving the file",
@@ -1359,7 +1359,7 @@
         "fr": "Une erreur inconnue s'est produite lors de l'enregistrement du fichier",
         "tr": "Dosya kaydedilirken bilinmeyen bir hata oluştu",
         "ja": "ファイルの保存中に不明なエラーが発生しました",
-        "uk": "An unknown error occurred while saving the file"
+        "uk": "Під час збереження файлу сталася невідома помилка"
     },
     "CODE_EDITOR$EMPTY_MESSAGE": {
         "en": "No file selected.",
@@ -1375,7 +1375,7 @@
         "fr": "Aucun fichier sélectionné.",
         "tr": "Hiçbir dosya seçilmedi.",
         "ja": "ファイルが選択されていません。",
-        "uk": "No file selected."
+        "uk": "Файл не вибрано."
     },
     "FILE_SERVICE$SELECT_FILE_ERROR": {
         "en": "Error selecting file. Please try again.",
@@ -1391,7 +1391,7 @@
         "fr": "Erreur lors de la sélection du fichier. Veuillez réessayer.",
         "tr": "Dosya seçiminde hata oluştu. Lütfen tekrar deneyin.",
         "ja": "ファイルの選択中にエラーが発生しました。もう一度お試しください。",
-        "uk": "Error selecting file. Please try again."
+        "uk": "Помилка вибору файлу. Спробуйте ще раз."
     },
     "FILE_SERVICE$UPLOAD_FILES_ERROR": {
         "en": "Error uploading files. Please try again.",
@@ -1407,7 +1407,7 @@
         "fr": "Erreur lors du téléchargement des fichiers. Veuillez réessayer.",
         "tr": "Dosyalar yüklenirken hata oluştu. Lütfen tekrar deneyin.",
         "ja": "ファイルのアップロード中にエラーが発生しました。もう一度お試しください。",
-        "uk": "Error uploading files. Please try again."
+        "uk": "Помилка завантаження файлів. Спробуйте ще раз."
     },
     "FILE_SERVICE$LIST_FILES_ERROR": {
         "en": "Error listing files. Please try again.",
@@ -1439,7 +1439,7 @@
         "fr": "Erreur lors de l'enregistrement du fichier. Veuillez réessayer.",
         "tr": "Dosya kaydedilirken hata oluştu. Lütfen tekrar deneyin.",
         "ja": "ファイルの保存中にエラーが発生しました。もう一度お試しください。",
-        "uk": "Error saving file. Please try again."
+        "uk": "Помилка збереження файлу. Спробуйте ще раз."
     },
     "SUGGESTIONS$INCREASE_TEST_COVERAGE": {
         "en": "Increase test coverage",
@@ -1455,7 +1455,7 @@
         "ar": "زيادة تغطية الاختبار",
         "fr": "Augmenter la couverture des tests",
         "tr": "Test kapsamını artır",
-        "uk": "Increase test coverage"
+        "uk": "Збільшити охоплення тестами"
     },
     "SUGGESTIONS$AUTO_MERGE_PRS": {
         "en": "Auto-merge Dependabot PRs",
@@ -1471,7 +1471,7 @@
         "ar": "دمج تلقائي لـ PRs من Dependabot",
         "fr": "Fusion automatique des PR Dependabot",
         "tr": "Dependabot PR'larını otomatik birleştir",
-        "uk": "Auto-merge Dependabot PRs"
+        "uk": "Автоматичне злиття PR"
     },
     "SUGGESTIONS$FIX_README": {
         "en": "Improve README",
@@ -1487,7 +1487,7 @@
         "ar": "تحسين README",
         "fr": "Améliorer le README",
         "tr": "README'yi geliştir",
-        "uk": "Improve README"
+        "uk": "Покращити README"
     },
     "SUGGESTIONS$CLEAN_DEPENDENCIES": {
         "en": "Clean up dependencies",
@@ -1503,7 +1503,7 @@
         "ar": "تنظيف التبعيات",
         "fr": "Nettoyer les dépendances",
         "tr": "Bağımlılıkları temizle",
-        "uk": "Clean up dependencies"
+        "uk": "Очищення залежностей"
     },
     "SETTINGS$LLM_SETTINGS": {
         "en": "LLM Settings",
@@ -1519,7 +1519,7 @@
         "ar": "إعدادات LLM",
         "fr": "Paramètres LLM",
         "tr": "LLM Ayarları",
-        "uk": "LLM Settings"
+        "uk": "LLM налаштування"
     },
     "SETTINGS$GIT_SETTINGS": {
         "en": "Git Settings",
@@ -1535,7 +1535,7 @@
         "ar": "إعدادات Git",
         "fr": "Paramètres Git",
         "tr": "Git Ayarları",
-        "uk": "Git Settings"
+        "uk": "Git налаштування"
     },
     "SETTINGS$SOUND_NOTIFICATIONS": {
         "en": "Sound Notifications",
@@ -1551,7 +1551,7 @@
         "ar": "إشعارات صوتية",
         "fr": "Notifications sonores",
         "tr": "Ses Bildirimleri",
-        "uk": "Sound Notifications"
+        "uk": "Звукові сповіщення"
     },
     "SETTINGS$PROACTIVE_CONVERSATION_STARTERS": {
         "en": "Suggest Tasks on GitHub",
@@ -1567,7 +1567,7 @@
         "ar": "اقتراح المهام على GitHub",
         "fr": "Suggérer des tâches sur GitHub",
         "tr": "GitHub'da Görevler Öner",
-        "uk": "Suggest Tasks on GitHub"
+        "uk": "Запропонувати завдання на GitHub"
     },
     "SETTINGS$CUSTOM_MODEL": {
         "en": "Custom Model",
@@ -1583,7 +1583,7 @@
         "ar": "نموذج مخصص",
         "fr": "Modèle personnalisé",
         "tr": "Özel Model",
-        "uk": "Custom Model"
+        "uk": "Користувацька модель"
     },
     "GITHUB$CODE_NOT_IN_GITHUB": {
         "en": "Code not in GitHub?",
@@ -1599,7 +1599,7 @@
         "ar": "الكود غير موجود على GitHub؟",
         "fr": "Code non présent sur GitHub ?",
         "tr": "Kod GitHub'da değil mi?",
-        "uk": "Code not in GitHub?"
+        "uk": "Коду немає на GitHub?"
     },
     "GITHUB$START_FROM_SCRATCH": {
         "en": "Start from scratch",
@@ -1615,7 +1615,7 @@
         "ar": "البدء من الصفر",
         "fr": "Commencer de zéro",
         "tr": "Sıfırdan başla",
-        "uk": "Start from scratch"
+        "uk": "Почати з нуля"
     },
     "AVATAR$ALT_TEXT": {
         "en": "user avatar",
@@ -1631,7 +1631,7 @@
         "ar": "صورة المستخدم",
         "fr": "Avatar utilisateur",
         "tr": "Kullanıcı avatarı",
-        "uk": "user avatar"
+        "uk": "аватар користувача"
     },
     "BRANDING$ALL_HANDS_AI": {
         "en": "All Hands AI",
@@ -1663,7 +1663,7 @@
         "ar": "شعار All Hands",
         "fr": "Logo All Hands",
         "tr": "All Hands Logosu",
-        "uk": "All Hands Logo"
+        "uk": "All Hands лого"
     },
     "ERROR$GENERIC": {
         "en": "An error occurred",
@@ -1679,7 +1679,7 @@
         "ar": "حدث خطأ",
         "fr": "Une erreur s'est produite",
         "tr": "Bir hata oluştu",
-        "uk": "An error occurred"
+        "uk": "Сталася помилка"
     },
     "GITHUB$AUTH_SCOPE": {
         "en": "openid email profile",
@@ -1711,7 +1711,7 @@
         "fr": "Chemin de fichier invalide. Veuillez vérifier le nom du fichier et réessayer.",
         "tr": "Geçersiz dosya yolu. Lütfen dosya adını kontrol edin ve tekrar deneyin.",
         "ja": "ファイルパスが無効です。ファイル名を確認して、もう一度お試しください。",
-        "uk": "Invalid file path. Please check the file name and try again."
+        "uk": "Недійсний шлях до файлу. Перевірте ім'я файлу та спробуйте ще раз."
     },
     "VSCODE$OPEN": {
         "en": "Open in VS Code",
@@ -1727,7 +1727,7 @@
         "ar": "فتح في VS Code",
         "fr": "Ouvrir dans VS Code",
         "tr": "VS Code'da aç",
-        "uk": "Open in VS Code"
+        "uk": "Відкрити у VS Code"
     },
     "VSCODE$TITLE": {
         "en": "VS Code",
@@ -1759,7 +1759,7 @@
         "ar": "جاري تحميل VS Code...",
         "fr": "Chargement de VS Code...",
         "tr": "VS Code yükleniyor...",
-        "uk": "Loading VS Code..."
+        "uk": "Завантажую VS Code..."
     },
     "VSCODE$URL_NOT_AVAILABLE": {
         "en": "VS Code URL not available",
@@ -1775,7 +1775,7 @@
         "ar": "رابط VS Code غير متوفر",
         "fr": "URL VS Code non disponible",
         "tr": "VS Code URL'si mevcut değil",
-        "uk": "VS Code URL not available"
+        "uk": "VS Code URL недоступний"
     },
     "VSCODE$FETCH_ERROR": {
         "en": "Failed to fetch VS Code URL",
@@ -1791,7 +1791,7 @@
         "ar": "فشل في جلب رابط VS Code",
         "fr": "Échec de la récupération de l'URL VS Code",
         "tr": "VS Code URL'si alınamadı",
-        "uk": "Failed to fetch VS Code URL"
+        "uk": "Не вдалося отримати VS Code URL"
     },
     "VSCODE$IFRAME_PERMISSIONS": {
         "en": "clipboard-read; clipboard-write",
@@ -1823,7 +1823,7 @@
         "ar": "زيادة تغطية الاختبارات",
         "fr": "Augmenter la couverture des tests",
         "tr": "Test kapsamını artır",
-        "uk": "Increase test coverage"
+        "uk": "Збільшення охоплення тестами"
     },
     "AUTO_MERGE_PRS": {
         "en": "Auto-merge PRs",
@@ -1839,7 +1839,7 @@
         "ar": "دمج طلبات السحب تلقائياً",
         "fr": "Fusionner automatiquement les PR",
         "tr": "PR'ları otomatik birleştir",
-        "uk": "Auto-merge PRs"
+        "uk": "Автоматично поєднувати PRs"
     },
     "FIX_README": {
         "en": "Fix README",
@@ -1855,7 +1855,7 @@
         "ar": "إصلاح README",
         "fr": "Corriger le README",
         "tr": "README'yi düzelt",
-        "uk": "Fix README"
+        "uk": "Виправити README"
     },
     "CLEAN_DEPENDENCIES": {
         "en": "Clean dependencies",
@@ -1871,7 +1871,7 @@
         "ar": "تنظيف التبعيات",
         "fr": "Nettoyer les dépendances",
         "tr": "Bağımlılıkları temizle",
-        "uk": "Clean dependencies"
+        "uk": "Почистити залкжності"
     },
     "CONFIGURATION$OPENHANDS_WORKSPACE_DIRECTORY_INPUT_LABEL": {
         "en": "OpenHands Workspace directory",
@@ -1887,7 +1887,7 @@
         "fr": "Répertoire de l'espace de travail OpenHands",
         "tr": "OpenHands çalışma alanı dizini",
         "ja": "OpenHands ワークスペースディレクトリ",
-        "uk": "OpenHands Workspace directory"
+        "uk": "OpenHands Каталог робочих просторів"
     },
     "LLM$PROVIDER": {
         "en": "LLM Provider",
@@ -1903,7 +1903,7 @@
         "fr": "Fournisseur LLM",
         "tr": "LLM Sağlayıcı",
         "de": "LLM-Anbieter",
-        "uk": "LLM Provider"
+        "uk": "LLM Постачальник"
     },
     "LLM$SELECT_PROVIDER_PLACEHOLDER": {
         "en": "Select a provider",
@@ -1919,7 +1919,7 @@
         "fr": "Sélectionner un fournisseur",
         "tr": "Bir sağlayıcı seçin",
         "de": "Anbieter auswählen",
-        "uk": "Select a provider"
+        "uk": "Виберіть постачальника"
     },
     "API$KEY": {
         "en": "API Key",
@@ -1935,7 +1935,7 @@
         "fr": "Clé API",
         "tr": "API Anahtarı",
         "de": "API-Schlüssel",
-        "uk": "API Key"
+        "uk": "API ключ"
     },
     "API$DONT_KNOW_KEY": {
         "en": "Don't know your API key?",
@@ -1951,7 +1951,7 @@
         "fr": "Vous ne connaissez pas votre clé API ?",
         "tr": "API anahtarınızı bilmiyor musunuz?",
         "de": "API-Schlüssel unbekannt?",
-        "uk": "Don't know your API key?"
+        "uk": "Не знаєте свого API-ключа?"
     },
     "BUTTON$SAVE": {
         "en": "Save",
@@ -1967,7 +1967,7 @@
         "fr": "Enregistrer",
         "tr": "Kaydet",
         "de": "Speichern",
-        "uk": "Save"
+        "uk": "Зберегти"
     },
     "BUTTON$CLOSE": {
         "en": "Close",
@@ -1983,7 +1983,7 @@
         "fr": "Fermer",
         "tr": "Kapat",
         "de": "Schließen",
-        "uk": "Close"
+        "uk": "Закрити"
     },
     "MODAL$CONFIRM_RESET_TITLE": {
         "en": "Are you sure?",
@@ -2015,7 +2015,7 @@
         "fr": "Toutes les informations seront supprimées",
         "tr": "Tüm bilgiler silinecek",
         "de": "Möchten Sie alle Einstellungen zurücksetzen?",
-        "uk": "All information will be deleted"
+        "uk": "Всю інформацію буде видалено"
     },
     "MODAL$END_SESSION_TITLE": {
         "en": "End Session",
@@ -2031,7 +2031,7 @@
         "fr": "Terminer la session",
         "tr": "Oturumu sonlandır",
         "de": "Sitzung beenden",
-        "uk": "End Session"
+        "uk": "Закінчити сеанс"
     },
     "MODAL$END_SESSION_MESSAGE": {
         "en": "Changing workspace settings will end the current session",
@@ -2047,7 +2047,7 @@
         "fr": "La modification des paramètres de l'espace de travail mettra fin à la session en cours",
         "tr": "Çalışma alanı ayarlarını değiştirmek mevcut oturumu sonlandıracak",
         "de": "Möchten Sie die aktuelle Sitzung beenden?",
-        "uk": "Changing workspace settings will end the current session"
+        "uk": "Зміна налаштувань робочого простору завершить поточний сеанс"
     },
     "BUTTON$END_SESSION": {
         "en": "End Session",
@@ -2063,7 +2063,7 @@
         "fr": "Terminer la session",
         "tr": "Oturumu sonlandır",
         "de": "Sitzung beenden",
-        "uk": "End Session"
+        "uk": "Закінчити сеанс"
     },
     "BUTTON$CANCEL": {
         "en": "Cancel",
@@ -2079,7 +2079,7 @@
         "fr": "Annuler",
         "tr": "İptal",
         "de": "Abbrechen",
-        "uk": "Cancel"
+        "uk": "Скасувати"
     },
     "EXIT_PROJECT$CONFIRM": {
         "en": "Exit Project",
@@ -2111,7 +2111,7 @@
         "fr": "Êtes-vous sûr de vouloir quitter ce projet ?",
         "tr": "Bu projeden çıkmak istediğinizden emin misiniz?",
         "de": "Sind Sie sicher, dass Sie dieses Projekt verlassen möchten?",
-        "uk": "Are you sure you want to exit this project?"
+        "uk": "Ви впевнені, що хочете вийти з цього проєкту?"
     },
     "LANGUAGE$LABEL": {
         "en": "Language",
@@ -2127,7 +2127,7 @@
         "fr": "Langue",
         "tr": "Dil",
         "de": "Sprache",
-        "uk": "Language"
+        "uk": "Мова"
     },
     "GITHUB$TOKEN_LABEL": {
         "en": "GitHub Token",
@@ -2143,7 +2143,7 @@
         "fr": "Jeton GitHub",
         "tr": "GitHub Jetonu",
         "de": "GitHub-Token",
-        "uk": "GitHub Token"
+        "uk": "GitHub Токен"
     },
     "GITHUB$TOKEN_OPTIONAL": {
         "en": "GitHub Token (Optional)",
@@ -2159,7 +2159,7 @@
         "fr": "Jeton GitHub (facultatif)",
         "tr": "GitHub Jetonu (İsteğe bağlı)",
         "de": "(Optional)",
-        "uk": "GitHub Token (Optional)"
+        "uk": "Токен GitHub (необов'язково)"
     },
     "GITHUB$GET_TOKEN": {
         "en": "Get your token",
@@ -2175,7 +2175,7 @@
         "fr": "Obtenir votre jeton",
         "tr": "Jetonunuzu alın",
         "de": "Token abrufen",
-        "uk": "Get your token"
+        "uk": "Отримайте свій токен"
     },
     "GITHUB$TOKEN_HELP_TEXT": {
         "en": "Get your <0>GitHub token</0> or <1>click here for instructions</1>",
@@ -2191,7 +2191,7 @@
         "fr": "Obtenez votre <0>jeton GitHub</0> ou <1>cliquez ici pour les instructions</1>",
         "tr": "<0>GitHub jetonu</0> alın veya <1>talimatlar için buraya tıklayın</1>",
         "de": "Holen Sie sich Ihren <0>GitHub-Token</0> oder <1>klicken Sie hier für Anweisungen</1>",
-        "uk": "Get your <0>GitHub token</0> or <1>click here for instructions</1>"
+        "uk": "Отримайте свій <0>токен GitHub</0> або <1>натисніть тут, щоб отримати інструкції</1>"
     },
     "GITHUB$TOKEN_LINK_TEXT": {
         "en": "GitHub token",
@@ -2207,7 +2207,7 @@
         "fr": "jeton GitHub",
         "tr": "GitHub jetonu",
         "de": "GitHub-Token",
-        "uk": "GitHub token"
+        "uk": "Токен GitHub"
     },
     "GITHUB$INSTRUCTIONS_LINK_TEXT": {
         "en": "click here for instructions",
@@ -2223,7 +2223,7 @@
         "fr": "cliquez ici pour les instructions",
         "tr": "talimatlar için buraya tıklayın",
         "de": "klicken Sie hier für Anweisungen",
-        "uk": "click here for instructions"
+        "uk": "натисніть тут, щоб отримати інструкції"
     },
     "COMMON$HERE": {
         "en": "here",
@@ -2239,7 +2239,7 @@
         "fr": "ici",
         "tr": "buradan",
         "de": "Hier",
-        "uk": "here"
+        "uk": "тут"
     },
     "ANALYTICS$ENABLE": {
         "en": "Enable analytics",
@@ -2255,7 +2255,7 @@
         "fr": "Activer les analyses",
         "tr": "Analitiği etkinleştir",
         "de": "Analyse aktivieren",
-        "uk": "Enable analytics"
+        "uk": "Увімкнути аналітику"
     },
     "GITHUB$TOKEN_INVALID": {
         "en": "Invalid GitHub token",
@@ -2271,7 +2271,7 @@
         "fr": "Jeton GitHub invalide",
         "tr": "Geçersiz GitHub jetonu",
         "de": "GitHub-Token ungültig",
-        "uk": "Invalid GitHub token"
+        "uk": "Недійсний токен GitHub"
     },
     "BUTTON$DISCONNECT": {
         "en": "Disconnect",
@@ -2287,7 +2287,7 @@
         "fr": "Déconnecter",
         "tr": "Bağlantıyı kes",
         "de": "Verbindung trennen",
-        "uk": "Disconnect"
+        "uk": "Відключитися"
     },
     "GITHUB$CONFIGURE_REPOS": {
         "en": "Configure Github Repositories",
@@ -2303,7 +2303,7 @@
         "fr": "Configurer les dépôts GitHub",
         "tr": "GitHub depolarını yapılandır",
         "de": "GitHub-Repositories konfigurieren",
-        "uk": "Configure Github Repositories"
+        "uk": "Налаштування репозиторіїв Github"
     },
     "COMMON$CLICK_FOR_INSTRUCTIONS": {
         "en": "Click here for instructions",
@@ -2319,7 +2319,7 @@
         "fr": "Cliquez ici pour les instructions",
         "tr": "Talimatlar için buraya tıklayın",
         "de": "Für Anweisungen klicken",
-        "uk": "Click here for instructions"
+        "uk": "Натисніть тут, щоб отримати інструкції"
     },
     "LLM$SELECT_MODEL_PLACEHOLDER": {
         "en": "Select a model",
@@ -2335,7 +2335,7 @@
         "fr": "Sélectionner un modèle",
         "tr": "Bir model seçin",
         "de": "Modell auswählen",
-        "uk": "Select a model"
+        "uk": "Виберіть модель"
     },
     "LLM$MODEL": {
         "en": "LLM Model",
@@ -2351,7 +2351,7 @@
         "fr": "Modèle LLM",
         "tr": "LLM Modeli",
         "de": "LLM-Modell",
-        "uk": "LLM Model"
+        "uk": "LLM модель"
     },
     "CONFIGURATION$OPENHANDS_WORKSPACE_DIRECTORY_INPUT_PLACEHOLDER": {
         "en": "Default: ./workspace",
@@ -2367,7 +2367,7 @@
         "es": "Predeterminado: ./workspace",
         "ja": "デフォルト: ./workspace",
         "tr": "Çalışma alanı dizinini girin",
-        "uk": "Default: ./workspace"
+        "uk": "За замовчуванням: ./workspace"
     },
     "CONFIGURATION$MODAL_TITLE": {
         "en": "Configuration",
@@ -2383,7 +2383,7 @@
         "fr": "Configuration",
         "tr": "Konfigürasyon",
         "ja": "設定",
-        "uk": "Configuration"
+        "uk": "Конфігурація"
     },
     "CONFIGURATION$MODEL_SELECT_LABEL": {
         "en": "Model",
@@ -2399,7 +2399,7 @@
         "fr": "Modèle",
         "tr": "Model",
         "ja": "モデル",
-        "uk": "Model"
+        "uk": "Модель"
     },
     "CONFIGURATION$MODEL_SELECT_PLACEHOLDER": {
         "en": "Select a model",
@@ -2415,7 +2415,7 @@
         "fr": "Sélectionner un modèle",
         "tr": "Model Seç",
         "ja": "モデルを選択",
-        "uk": "Select a model"
+        "uk": "Виберіть модель"
     },
     "CONFIGURATION$AGENT_SELECT_LABEL": {
         "en": "Agent",
@@ -2431,7 +2431,7 @@
         "fr": "Agent",
         "tr": "Ajan",
         "ja": "エージェント",
-        "uk": "Agent"
+        "uk": "Агент"
     },
     "CONFIGURATION$AGENT_SELECT_PLACEHOLDER": {
         "en": "Select an agent",
@@ -2447,7 +2447,7 @@
         "fr": "Sélectionner un agent",
         "tr": "Ajan Seç",
         "ja": "エージェントを選択",
-        "uk": "Select an agent"
+        "uk": "Виберіть агента"
     },
     "CONFIGURATION$LANGUAGE_SELECT_LABEL": {
         "en": "Language",
@@ -2463,7 +2463,7 @@
         "es": "Idioma",
         "ja": "言語",
         "tr": "Dil",
-        "uk": "Language"
+        "uk": "Мова"
     },
     "CONFIGURATION$LANGUAGE_SELECT_PLACEHOLDER": {
         "en": "Select a language",
@@ -2479,7 +2479,7 @@
         "fr": "Sélectionner une langue",
         "tr": "Dil Seç",
         "ja": "言語を選択",
-        "uk": "Select a language"
+        "uk": "Виберіть мову"
     },
     "CONFIGURATION$SECURITY_SELECT_LABEL": {
         "en": "Security analyzer",
@@ -2495,7 +2495,7 @@
         "fr": "Analyseur de sécurité",
         "tr": "Güvenlik analizörü",
         "ja": "セキュリティアナライザー",
-        "uk": "Security analyzer"
+        "uk": "Аналізатор безпеки"
     },
     "CONFIGURATION$SECURITY_SELECT_PLACEHOLDER": {
         "en": "Select a security analyzer (optional)",
@@ -2511,7 +2511,7 @@
         "fr": "Sélectionnez un analyseur de sécurité (facultatif)",
         "tr": "Bir güvenlik analizörü seçin (isteğe bağlı)",
         "ja": "セキュリティアナライザーを選択（オプション）",
-        "uk": "Select a security analyzer (optional)"
+        "uk": "Виберіть аналізатор безпеки (необов'язково)"
     },
     "CONFIGURATION$MODAL_CLOSE_BUTTON_LABEL": {
         "en": "Close",
@@ -2527,7 +2527,7 @@
         "fr": "Fermer",
         "tr": "Kapat",
         "ja": "閉じる",
-        "uk": "Close"
+        "uk": "Закрити"
     },
     "CONFIGURATION$MODAL_SAVE_BUTTON_LABEL": {
         "en": "Save",
@@ -2543,7 +2543,7 @@
         "es": "Guardar",
         "ja": "保存",
         "tr": "Kaydet",
-        "uk": "Save"
+        "uk": "Зберегти"
     },
     "CONFIGURATION$MODAL_RESET_BUTTON_LABEL": {
         "en": "Reset to defaults",
@@ -2559,7 +2559,7 @@
         "fr": "Réinitialiser aux valeurs par défaut",
         "tr": "Varsayılanlara Sıfırla",
         "ja": "デフォルトにリセット",
-        "uk": "Reset to defaults"
+        "uk": "Скинути до налаштувань за замовчуванням"
     },
     "STATUS$CONNECTED_TO_SERVER": {
         "en": "Connected to server",
@@ -2575,7 +2575,7 @@
         "ar": "متصل بالخادم",
         "fr": "Connecté au serveur",
         "tr": "Sunucuya bağlandı",
-        "uk": "Connected to server"
+        "uk": "Підключено до сервера"
     },
     "PROJECT$NEW_PROJECT": {
         "en": "New Project",
@@ -2591,7 +2591,7 @@
         "ar": "مشروع جديد",
         "fr": "Nouveau projet",
         "tr": "Yeni Proje",
-        "uk": "New Project"
+        "uk": "Новий проект"
     },
     "BROWSER$SCREENSHOT": {
         "en": "Browser Screenshot",
@@ -2607,7 +2607,7 @@
         "it": "Screenshot del browser",
         "pt": "Captura de tela do navegador",
         "es": "Captura de pantalla del navegador",
-        "uk": "Browser Screenshot"
+        "uk": "Знімок екрана браузера"
     },
     "TIME$MINUTES_AGO": {
         "en": "minutes ago",
@@ -2623,7 +2623,7 @@
         "ar": "دقائق مضت",
         "fr": "minutes",
         "tr": "dakika önce",
-        "uk": "minutes ago"
+        "uk": "хвилин тому"
     },
     "TIME$HOURS_AGO": {
         "en": "hours ago",
@@ -2639,7 +2639,7 @@
         "ar": "ساعات مضت",
         "fr": "heures",
         "tr": "saat önce",
-        "uk": "hours ago"
+        "uk": "годин тому"
     },
     "TIME$DAYS_AGO": {
         "en": "days ago",
@@ -2655,7 +2655,7 @@
         "ar": "أيام مضت",
         "fr": "jours",
         "tr": "gün önce",
-        "uk": "days ago"
+        "uk": "днів тому"
     },
     "SETTINGS_FORM$RUNTIME_SIZE_LABEL": {
         "en": "Runtime Settings",
@@ -2671,7 +2671,7 @@
         "fr": "Paramètres d'exécution",
         "tr": "Çalışma Zamanı Ayarları",
         "ja": "ランタイムサイズ",
-        "uk": "Runtime Settings"
+        "uk": "Налаштування середовища виконання"
     },
     "CONFIGURATION$SETTINGS_NEED_UPDATE_MESSAGE": {
         "en": "We've changed some settings in the latest update. Take a minute to review.",
@@ -2687,7 +2687,7 @@
         "fr": "Nous avons modifié certains paramètres dans la dernière mise à jour. Prenez un moment pour les examiner.",
         "tr": "Son güncellemede bazı ayarları değiştirdik. Gözden geçirmek için bir dakikanızı ayırın.",
         "ja": "最新のアップデートで一部の設定を変更しました。確認のためにお時間をいただけますか。",
-        "uk": "We've changed some settings in the latest update. Take a minute to review."
+        "uk": "Ми змінили деякі налаштування в останньому оновленні. Приділіть хвилинку, щоб переглянути їх."
     },
     "CONFIGURATION$AGENT_LOADING": {
         "en": "Please wait while the agent loads. This may take a few minutes...",
@@ -2703,7 +2703,7 @@
         "fr": "Veuillez patienter pendant le chargement de l'agent. Cela peut prendre quelques minutes...",
         "tr": "Lütfen ajan yüklenirken bekleyin. Bu birkaç dakika sürebilir...",
         "ja": "エージェントの読み込み中です。数分かかる場合があります...",
-        "uk": "Please wait while the agent loads. This may take a few minutes..."
+        "uk": "Будь ласка, зачекайте, поки завантажиться агент. Це може тривати кілька хвилин...."
     },
     "CONFIGURATION$AGENT_RUNNING": {
         "en": "Please stop the agent before editing these settings.",
@@ -2719,7 +2719,7 @@
         "fr": "Veuillez arrêter l'agent avant de modifier ces paramètres.",
         "tr": "Bu ayarları düzenlemeden önce lütfen ajanı durdurun.",
         "ja": "これらの設定を編集する前にエージェントを停止してください。",
-        "uk": "Please stop the agent before editing these settings."
+        "uk": "Будь ласка, зупиніть агента, перш ніж редагувати ці налаштування."
     },
     "CONFIGURATION$ERROR_FETCH_MODELS": {
         "en": "Failed to fetch models and agents",
@@ -2735,19 +2735,19 @@
         "tr": "Modeller ve ajanlar getirilemedi",
         "no": "Kunne ikke hente modeller og agenter",
         "ja": "モデルとエージェントの取得に失敗しました",
-        "uk": "Failed to fetch models and agents"
+        "uk": "Не вдалося отримати моделі та агентів"
     },
     "CONFIGURATION$SETTINGS_NOT_FOUND": {
         "en": "Settings not found. Please check your API key",
         "es": "Configuraciones no encontradas. Por favor revisa tu API key",
         "zh-TW": "找不到設定。請檢查您的 API 金鑰",
-        "uk": "Settings not found. Please check your API key"
+        "uk": "Налаштування не знайдено. Будь ласка, перевірте свій ключ API."
     },
     "CONNECT_TO_GITHUB_BY_TOKEN_MODAL$TERMS_OF_SERVICE": {
         "en": "terms of service",
         "es": "términos de servicio",
         "zh-TW": "服務條款",
-        "uk": "terms of service"
+        "uk": "умови обслуговування"
     },
     "SESSION$SERVER_CONNECTED_MESSAGE": {
         "en": "Connected to server",
@@ -2762,7 +2762,7 @@
         "ar": "تم الاتصال بالخادم",
         "tr": "Sunucuya bağlandı",
         "no": "Koblet til server",
-        "uk": "Connected to server"
+        "uk": "Підключено до сервера"
     },
     "SESSION$SESSION_HANDLING_ERROR_MESSAGE": {
         "en": "Error handling message",
@@ -2778,7 +2778,7 @@
         "tr": "Mesaj işlenirken hata oluştu",
         "no": "Feil ved behandling av melding",
         "ja": "メッセージの処理中にエラーが発生しました",
-        "uk": "Error handling message"
+        "uk": "Помилка обробки повідомлення"
     },
     "SESSION$SESSION_CONNECTION_ERROR_MESSAGE": {
         "en": "Error connecting to session",
@@ -2794,7 +2794,7 @@
         "tr": "Oturuma bağlanırken hata oluştu",
         "no": "Feil ved tilkobling til økt",
         "ja": "セッションへの接続中にエラーが発生しました",
-        "uk": "Error connecting to session"
+        "uk": "Помилка підключення до сеансу"
     },
     "SESSION$SOCKET_NOT_INITIALIZED_ERROR_MESSAGE": {
         "en": "Socket not initialized",
@@ -2810,7 +2810,7 @@
         "tr": "Soket başlatılmadı",
         "no": "Socket ikke initialisert",
         "ja": "ソケットが初期化されていません",
-        "uk": "Socket not initialized"
+        "uk": "Сокет не ініціалізовано"
     },
     "EXPLORER$UPLOAD_ERROR_MESSAGE": {
         "en": "Error uploading file",
@@ -2826,7 +2826,7 @@
         "tr": "Dosya yüklenirken hata oluştu",
         "no": "Feil ved opplasting av fil",
         "ja": "ファイルのアップロード中にエラーが発生しました",
-        "uk": "Error uploading file"
+        "uk": "Помилка завантаження файлу"
     },
     "EXPLORER$LABEL_DROP_FILES": {
         "en": "Drop files here",
@@ -2842,7 +2842,7 @@
         "ar": "أسقط الملفات هنا",
         "tr": "Dosyaları buraya bırakın",
         "ja": "ここにファイルをドロップ",
-        "uk": "Drop files here"
+        "uk": "Перетягніть файли сюди"
     },
     "EXPLORER$UPLOAD_SUCCESS_MESSAGE": {
         "en": "Successfully uploaded {{count}} file(s)",
@@ -2858,7 +2858,7 @@
         "tr": "{{count}} dosya başarıyla yüklendi",
         "no": "Lastet opp {{count}} fil(er) vellykket",
         "ja": "{{count}}個のファイルが正常にアップロードされました",
-        "uk": "Successfully uploaded {{count}} file(s)"
+        "uk": "Успішно завантажено файлів: {{count}}"
     },
     "EXPLORER$NO_FILES_UPLOADED_MESSAGE": {
         "en": "No files were uploaded",
@@ -2874,7 +2874,7 @@
         "tr": "Hiçbir dosya yüklenmedi",
         "no": "Ingen filer ble lastet opp",
         "ja": "アップロードされたファイルはありません",
-        "uk": "No files were uploaded"
+        "uk": "Жодних файлів не завантажено"
     },
     "EXPLORER$UPLOAD_PARTIAL_SUCCESS_MESSAGE": {
         "en": "{{count}} file(s) were skipped during upload",
@@ -2890,7 +2890,7 @@
         "tr": "Yükleme sırasında {{count}} dosya atlandı",
         "no": "{{count}} fil(er) ble hoppet over under opplasting",
         "ja": "アップロード中に{{count}}個のファイルがスキップされました",
-        "uk": "{{count}} file(s) were skipped during upload"
+        "uk": "{{count}} файлів було пропущено під час завантаження"
     },
     "EXPLORER$UPLOAD_UNEXPECTED_RESPONSE_MESSAGE": {
         "en": "Unexpected response structure from server",
@@ -2906,7 +2906,7 @@
         "tr": "Sunucudan beklenmeyen yanıt yapısı",
         "no": "Uventet responsstruktur fra serveren",
         "ja": "サーバーから予期しない応答構造が返されました",
-        "uk": "Unexpected response structure from server"
+        "uk": "Неочікувана структура відповіді від сервера"
     },
     "EXPLORER$VSCODE_SWITCHING_MESSAGE": {
         "en": "Switching to VS Code in 3 seconds...\nImportant: Please inform the agent of any changes you make in VS Code. To avoid conflicts, wait for the assistant to complete its work before making your own changes.",
@@ -2922,7 +2922,7 @@
         "pt": "Mudando para o VS Code em 3 segundos...\nImportante: Por favor, informe o agente sobre quaisquer alterações que você fizer no VS Code. Para evitar conflitos, aguarde até que o assistente conclua seu trabalho antes de fazer suas próprias alterações.",
         "es": "Cambiando a VS Code en 3 segundos...\nImportante: Por favor, informe al agente de cualquier cambio que realice en VS Code. Para evitar conflictos, espere a que el asistente complete su trabajo antes de realizar sus propios cambios.",
         "tr": "3 saniye içinde VS Code'a geçiliyor...\nÖnemli: Lütfen VS Code'da yaptığınız değişiklikleri aracıya bildirin. Çakışmaları önlemek için, kendi değişikliklerinizi yapmadan önce asistanın işini tamamlamasını bekleyin.",
-        "uk": "Switching to VS Code in 3 seconds...\nImportant: Please inform the agent of any changes you make in VS Code. To avoid conflicts, wait for the assistant to complete its work before making your own changes."
+        "uk": "Перехід до VS Code через 3 секунди...\nВажливо: Будь ласка, повідомте агента про будь-які зміни, які ви вносите у VS Code. Щоб уникнути конфліктів, зачекайте, поки помічник завершить свою роботу, перш ніж вносити власні зміни."
     },
     "EXPLORER$VSCODE_SWITCHING_ERROR_MESSAGE": {
         "en": "Error switching to VS Code: {{error}}",
@@ -2938,7 +2938,7 @@
         "pt": "Erro ao mudar para o VS Code: {{error}}",
         "es": "Error al cambiar a VS Code: {{error}}",
         "tr": "VS Code'a geçişte hata: {{error}}",
-        "uk": "Error switching to VS Code: {{error}}"
+        "uk": "Помилка перемикання на VS Code: {{error}}"
     },
     "LOAD_SESSION$MODAL_TITLE": {
         "en": "Return to existing session?",
@@ -2954,7 +2954,7 @@
         "tr": "Mevcut oturuma dönmek ister misiniz?",
         "ja": "既存のセッションに戻りますか？",
         "no": "Gå tilbake til eksisterende økt?",
-        "uk": "Return to existing session?"
+        "uk": "Повернутися до існуючого сеансу?"
     },
     "LOAD_SESSION$MODAL_CONTENT": {
         "en": "You seem to have an ongoing session. Would you like to pick up where you left off, or start fresh?",
@@ -2970,7 +2970,7 @@
         "zh-TW": "您似乎有一個未完成的任務。您想從上次離開的地方繼續還是重新開始？",
         "ja": "進行中のセッションがあるようです。中断した箇所から再開しますか、それとも新しく始めますか？",
         "no": "Det ser ut som du har en pågående økt. Vil du fortsette der du slapp, eller starte på nytt?",
-        "uk": "You seem to have an ongoing session. Would you like to pick up where you left off, or start fresh?"
+        "uk": "Схоже, у вас триває сеанс. Ви хочете продовжити з того місця, де зупинилися, чи почати спочатку?"
     },
     "LOAD_SESSION$RESUME_SESSION_MODAL_ACTION_LABEL": {
         "en": "Resume Session",
@@ -2986,7 +2986,7 @@
         "ar": "استئناف الجلسة",
         "tr": "Oturumu Devam Ettir",
         "ja": "セッションを再開",
-        "uk": "Resume Session"
+        "uk": "Відновити сеанс"
     },
     "LOAD_SESSION$START_NEW_SESSION_MODAL_ACTION_LABEL": {
         "en": "Start New Session",
@@ -3002,7 +3002,7 @@
         "tr": "Yeni Oturum Başlat",
         "ja": "新しいセッションを開始",
         "no": "Start ny økt",
-        "uk": "Start New Session"
+        "uk": "Почати новий сеанс"
     },
     "FEEDBACK$MODAL_TITLE": {
         "en": "Share feedback",
@@ -3018,7 +3018,7 @@
         "tr": "Geri bildirim paylaş",
         "ja": "フィードバックを共有",
         "no": "Del tilbakemelding",
-        "uk": "Share feedback"
+        "uk": "Поділитися відгуком"
     },
     "FEEDBACK$MODAL_CONTENT": {
         "en": "To help us improve, we collect feedback from your interactions to improve our prompts. By submitting this form, you consent to us collecting this data.",
@@ -3034,7 +3034,7 @@
         "ar": "لمساعدتنا على التحسين، نقوم بجمع التعليقات من تفاعلاتك لتحسين مطالباتنا. من خلال إرسال هذا النموذج، فإنك توافق على جمعنا لهذه البيانات.",
         "tr": "Kendimizi geliştirmemize yardımcı olmak için, etkileşimlerinizden geri bildirim toplayarak ipuçlarımızı iyileştiriyoruz. Bu formu göndererek, bu verileri toplamamıza izin vermiş olursunuz.",
         "ja": "サービス改善のため、プロンプトの改善に向けてユーザーの操作からフィードバックを収集しています。このフォームを送信することで、データ収集に同意したことになります。",
-        "uk": "To help us improve, we collect feedback from your interactions to improve our prompts. By submitting this form, you consent to us collecting this data."
+        "uk": "Щоб покращити роботу, ми збираємо відгуки про вашу взаємодію з нами, щоб покращити наші промпти. Надсилаючи цю форму, ви погоджуєтеся на збір цих даних."
     },
     "FEEDBACK$EMAIL_LABEL": {
         "en": "Your email",
@@ -3050,7 +3050,7 @@
         "tr": "E-posta adresiniz",
         "ja": "メールアドレス",
         "no": "Din e-post",
-        "uk": "Your email"
+        "uk": "Ваша електронна адреса"
     },
     "FEEDBACK$CONTRIBUTE_LABEL": {
         "en": "Contribute to public dataset",
@@ -3066,7 +3066,7 @@
         "ar": "المساهمة في مجموعة البيانات العامة",
         "tr": "Genel veri setine katkıda bulun",
         "ja": "公開データセットに貢献",
-        "uk": "Contribute to public dataset"
+        "uk": "Зробити внесок у публічний датасет"
     },
     "FEEDBACK$SHARE_LABEL": {
         "en": "Share",
@@ -3082,7 +3082,7 @@
         "tr": "Paylaş",
         "ja": "共有",
         "no": "Del",
-        "uk": "Share"
+        "uk": "Поділитися"
     },
     "FEEDBACK$CANCEL_LABEL": {
         "en": "Cancel",
@@ -3098,7 +3098,7 @@
         "ar": "إلغاء",
         "tr": "İptal",
         "ja": "キャンセル",
-        "uk": "Cancel"
+        "uk": "Скасувати"
     },
     "FEEDBACK$EMAIL_PLACEHOLDER": {
         "en": "Enter your email address",
@@ -3114,7 +3114,7 @@
         "pt": "Digite seu endereço de e-mail",
         "tr": "E-posta adresinizi girin",
         "ja": "メールアドレスを入力してください",
-        "uk": "Enter your email address"
+        "uk": "Введіть свою адресу електронної пошти"
     },
     "FEEDBACK$PASSWORD_COPIED_MESSAGE": {
         "en": "Password copied to clipboard.",
@@ -3130,7 +3130,7 @@
         "pt": "Senha copiada para a área de transferência.",
         "tr": "Parola panoya kopyalandı.",
         "ja": "パスワードがクリップボードにコピーされました。",
-        "uk": "Password copied to clipboard."
+        "uk": "Пароль скопійовано в буфер обміну."
     },
     "FEEDBACK$GO_TO_FEEDBACK": {
         "en": "Go to shared feedback",
@@ -3146,7 +3146,7 @@
         "pt": "Ir para feedback compartilhado",
         "tr": "Paylaşılan geri bildirimlere git",
         "ja": "共有されたフィードバックへ移動",
-        "uk": "Go to shared feedback"
+        "uk": "Перейти до відгуку"
     },
     "FEEDBACK$PASSWORD": {
         "en": "Password:",
@@ -3162,7 +3162,7 @@
         "pt": "Senha:",
         "tr": "Parola:",
         "ja": "パスワード：",
-        "uk": "Password:"
+        "uk": "Пароль:"
     },
     "FEEDBACK$INVALID_EMAIL_FORMAT": {
         "en": "Invalid email format",
@@ -3178,7 +3178,7 @@
         "pt": "Formato de e-mail inválido",
         "tr": "Geçersiz e-posta biçimi",
         "ja": "無効なメールアドレス形式",
-        "uk": "Invalid email format"
+        "uk": "Недійсний формат електронної пошти"
     },
     "FEEDBACK$FAILED_TO_SHARE": {
         "en": "Failed to share, please contact the developers:",
@@ -3194,7 +3194,7 @@
         "pt": "Falha ao compartilhar, entre em contato com os desenvolvedores:",
         "tr": "Paylaşım başarısız, lütfen geliştiricilerle iletişime geçin:",
         "ja": "共有に失敗しました。開発者に連絡してください：",
-        "uk": "Failed to share, please contact the developers:"
+        "uk": "Не вдалося поділитися, зв’яжіться з розробниками:"
     },
     "FEEDBACK$COPY_LABEL": {
         "en": "Copy",
@@ -3210,7 +3210,7 @@
         "pt": "Copiar",
         "tr": "Kopyala",
         "ja": "コピー",
-        "uk": "Copy"
+        "uk": "Копіювати"
     },
     "FEEDBACK$SHARING_SETTINGS_LABEL": {
         "en": "Sharing settings",
@@ -3226,7 +3226,7 @@
         "pt": "Configurações de compartilhamento",
         "tr": "Paylaşım ayarları",
         "ja": "共有設定",
-        "uk": "Sharing settings"
+        "uk": "Налаштування доступу"
     },
     "SECURITY$UNKNOWN_ANALYZER_LABEL": {
         "en": "Unknown security analyzer chosen",
@@ -3242,7 +3242,7 @@
         "pt": "Analisador de segurança desconhecido escolhido",
         "tr": "Bilinmeyen güvenlik analizörü seçildi",
         "ja": "不明なセキュリティアナライザーが選択されました",
-        "uk": "Unknown security analyzer chosen"
+        "uk": "Вибрано невідомий аналізатор безпеки"
     },
     "INVARIANT$UPDATE_POLICY_LABEL": {
         "en": "Update Policy",
@@ -3258,7 +3258,7 @@
         "pt": "Atualizar política",
         "tr": "İlkeyi güncelle",
         "ja": "ポリシーを更新",
-        "uk": "Update Policy"
+        "uk": "Політика оновлення"
     },
     "INVARIANT$UPDATE_SETTINGS_LABEL": {
         "en": "Update Settings",
@@ -3274,7 +3274,7 @@
         "pt": "Atualizar configurações",
         "tr": "Ayarları güncelle",
         "ja": "設定を更新",
-        "uk": "Update Settings"
+        "uk": "Оновити налаштування"
     },
     "INVARIANT$SETTINGS_LABEL": {
         "en": "Settings",
@@ -3290,7 +3290,7 @@
         "pt": "Configurações",
         "tr": "Ayarlar",
         "ja": "設定",
-        "uk": "Settings"
+        "uk": "Налаштування"
     },
     "INVARIANT$ASK_CONFIRMATION_RISK_SEVERITY_LABEL": {
         "en": "Ask for user confirmation on risk severity:",
@@ -3306,7 +3306,7 @@
         "pt": "Solicitar confirmação do usuário sobre a gravidade do risco:",
         "tr": "Risk şiddeti için kullanıcı onayı iste:",
         "ja": "リスクの重大度についてユーザーの確認を求める：",
-        "uk": "Ask for user confirmation on risk severity:"
+        "uk": "Запит підтвердження користувача щодо ступеня ризику:"
     },
     "INVARIANT$DONT_ASK_FOR_CONFIRMATION_LABEL": {
         "en": "Don't ask for confirmation",
@@ -3322,7 +3322,7 @@
         "pt": "Não solicitar confirmação",
         "tr": "Onay isteme",
         "ja": "確認を求めない",
-        "uk": "Don't ask for confirmation"
+        "uk": "Не запитувати підтвердження"
     },
     "INVARIANT$INVARIANT_ANALYZER_LABEL": {
         "en": "Invariant Analyzer",
@@ -3338,7 +3338,7 @@
         "pt": "Analisador de invariantes",
         "tr": "Değişmez Analizörü",
         "ja": "不変条件アナライザー",
-        "uk": "Invariant Analyzer"
+        "uk": "Інваріантний аналізатор"
     },
     "INVARIANT$INVARIANT_ANALYZER_MESSAGE": {
         "en": "Invariant Analyzer continuously monitors your OpenHands agent for security issues.",
@@ -3354,7 +3354,7 @@
         "pt": "O analisador de invariantes monitora continuamente seu agente OpenHands em busca de problemas de segurança.",
         "tr": "Değişmez Analizörü, OpenHands ajanınızı güvenlik sorunları için sürekli olarak izler.",
         "ja": "不変条件アナライザーは、OpenHandsエージェントのセキュリティ問題を継続的に監視します。",
-        "uk": "Invariant Analyzer continuously monitors your OpenHands agent for security issues."
+        "uk": "Invariant Analyzer постійно контролює ваш агент OpenHands на наявність проблем безпеки."
     },
     "INVARIANT$CLICK_TO_LEARN_MORE_LABEL": {
         "en": "Click to learn more",
@@ -3386,7 +3386,7 @@
         "pt": "Política",
         "tr": "İlke",
         "ja": "ポリシー",
-        "uk": "Policy"
+        "uk": "Політика"
     },
     "INVARIANT$LOG_LABEL": {
         "en": "Logs",
@@ -3402,7 +3402,7 @@
         "pt": "Logs",
         "tr": "Günlükler",
         "ja": "ログ",
-        "uk": "Logs"
+        "uk": "Журнали"
     },
     "INVARIANT$EXPORT_TRACE_LABEL": {
         "en": "Export Trace",
@@ -3418,7 +3418,7 @@
         "pt": "Exportar rastreamento",
         "tr": "İzlemeyi dışa aktar",
         "ja": "トレースをエクスポート",
-        "uk": "Export Trace"
+        "uk": "Експорт трасування"
     },
     "INVARIANT$TRACE_EXPORTED_MESSAGE": {
         "en": "Trace exported",
@@ -3434,7 +3434,7 @@
         "pt": "Rastreamento exportado",
         "tr": "İzleme dışa aktarıldı",
         "ja": "トレースをエクスポートしました",
-        "uk": "Trace exported"
+        "uk": "Трасування експортовано"
     },
     "INVARIANT$POLICY_UPDATED_MESSAGE": {
         "en": "Policy updated",
@@ -3466,7 +3466,7 @@
         "pt": "Configurações atualizadas",
         "tr": "Ayarlar güncellendi",
         "ja": "設定を更新しました",
-        "uk": "Settings updated"
+        "uk": "Налаштування оновлено"
     },
     "CHAT_INTERFACE$INITIALIZING_AGENT_LOADING_MESSAGE": {
         "en": "Starting up!",
@@ -3482,7 +3482,7 @@
         "fr": "Démarrage en cours !",
         "tr": "Başlatılıyor!",
         "ja": "起動中！",
-        "uk": "Starting up!"
+        "uk": "Запуск!"
     },
     "CHAT_INTERFACE$AGENT_INIT_MESSAGE": {
         "en": "Agent is initialized, waiting for task...",
@@ -3498,7 +3498,7 @@
         "fr": "L'agent est initialisé, en attente de tâche...",
         "tr": "Ajan başlatıldı, görev bekleniyor...",
         "ja": "エージェントの初期化が完了しました。タスクを待機中...",
-        "uk": "Agent is initialized, waiting for task..."
+        "uk": "Агент ініціалізовано, очікує завдання..."
     },
     "CHAT_INTERFACE$AGENT_RUNNING_MESSAGE": {
         "en": "Agent is running task",
@@ -3514,7 +3514,7 @@
         "fr": "L'agent exécute la tâche",
         "tr": "Ajan görevi yürütüyor",
         "ja": "エージェントがタスクを実行中",
-        "uk": "Agent is running task"
+        "uk": "Агент виконує завдання"
     },
     "CHAT_INTERFACE$AGENT_AWAITING_USER_INPUT_MESSAGE": {
         "en": "Agent is awaiting user input...",
@@ -3530,7 +3530,7 @@
         "fr": "L'agent attend l'entrée de l'utilisateur...",
         "tr": "Ajan kullanıcı girdisini bekliyor...",
         "ja": "エージェントがユーザー入力を待機中...",
-        "uk": "Agent is awaiting user input..."
+        "uk": "Агент очікує на введення даних від користувача..."
     },
     "CHAT_INTERFACE$AGENT_RATE_LIMITED_MESSAGE": {
         "en": "Agent is Rate Limited",
@@ -3546,7 +3546,7 @@
         "fr": "L'agent est limité en fréquence",
         "tr": "Ajan hız sınırına ulaştı",
         "ja": "エージェントがレート制限中",
-        "uk": "Agent is Rate Limited"
+        "uk": "Агента обмежено кількістю запитів"
     },
     "CHAT_INTERFACE$AGENT_PAUSED_MESSAGE": {
         "en": "Agent has paused.",
@@ -3562,7 +3562,7 @@
         "fr": "L'agent a mis en pause.",
         "tr": "Ajan duraklatıldı.",
         "ja": "エージェントが一時停止中",
-        "uk": "Agent has paused."
+        "uk": "Агента призупинено."
     },
     "LANDING$TITLE": {
         "en": "Let's start building!",
@@ -3578,7 +3578,7 @@
         "ar": "هيا نبدأ البناء!",
         "no": "La oss begynne å bygge!",
         "tr": "Hadi inşa etmeye başlayalım!",
-        "uk": "Let's start building!"
+        "uk": "Почнімо будувати!"
     },
     "LANDING$SUBTITLE": {
         "en": "OpenHands makes it easy to build and maintain software using a simple prompt.",
@@ -3594,7 +3594,7 @@
         "ar": "يجعل OpenHands من السهل بناء وصيانة البرمجيات باستخدام موجه بسيط.",
         "no": "OpenHands gjør det enkelt å bygge og vedlikeholde programvare ved hjelp av en enkel prompt.",
         "tr": "Yapay zeka destekli yazılım geliştirme",
-        "uk": "OpenHands makes it easy to build and maintain software using a simple prompt."
+        "uk": "OpenHands спрощує створення та підтримку програмного забезпечення за допомогою простого командного рядка."
     },
     "LANDING$START_HELP": {
         "en": "Not sure how to start?",
@@ -3610,7 +3610,7 @@
         "ar": "غير متأكد من كيفية البدء؟",
         "no": "Usikker på hvordan du skal begynne?",
         "tr": "Başlamak için yardım",
-        "uk": "Not sure how to start?"
+        "uk": "Не знаєте, як почати?"
     },
     "LANDING$START_HELP_LINK": {
         "en": "Read this",
@@ -3626,7 +3626,7 @@
         "ar": "اقرأ هذا",
         "no": "Les dette",
         "tr": "Başlangıç kılavuzu",
-        "uk": "Read this"
+        "uk": "Прочитайте це"
     },
     "SUGGESTIONS$HELLO_WORLD": {
         "en": "Create a Hello World app",
@@ -3642,7 +3642,7 @@
         "ar": "إنشاء تطبيق Hello World",
         "no": "Lag en Hello World-app",
         "tr": "Bir Hello World uygulaması oluştur",
-        "uk": "Create a Hello World app"
+        "uk": "Створіть додаток Hello World"
     },
     "SUGGESTIONS$TODO_APP": {
         "en": "Build a todo list application",
@@ -3658,7 +3658,7 @@
         "ar": "بناء تطبيق قائمة المهام",
         "no": "Bygg en gjøremålsliste-app",
         "tr": "Yapılacaklar uygulaması",
-        "uk": "Build a todo list application"
+        "uk": "Створіть додаток для списку справ"
     },
     "SUGGESTIONS$HACKER_NEWS": {
         "en": "Write a bash script that shows the top story on Hacker News",
@@ -3674,7 +3674,7 @@
         "ar": "كتابة سكربت باش يعرض أهم خبر على هاكر نيوز",
         "no": "Skriv et bash-script som viser topphistorien på Hacker News",
         "tr": "Hacker News klonu",
-        "uk": "Write a bash script that shows the top story on Hacker News"
+        "uk": "Напишіть bash-скрипт, який показує головну новину на Hacker News"
     },
     "LANDING$CHANGE_PROMPT": {
         "en": "What would you like to change in {{repo}}?",
@@ -3690,7 +3690,7 @@
         "ar": "ماذا تريد أن تغير في {{repo}}؟",
         "no": "Hva vil du endre i {{repo}}?",
         "tr": "İsteği değiştir",
-        "uk": "What would you like to change in {{repo}}?"
+        "uk": "Що б ви хотіли змінити в {{repo}}?"
     },
     "GITHUB$CONNECT": {
         "en": "Connect to GitHub",
@@ -3706,7 +3706,7 @@
         "ar": "الاتصال بـ GitHub",
         "no": "Koble til GitHub",
         "tr": "GitHub'a bağlan",
-        "uk": "Connect to GitHub"
+        "uk": "Підключитися до GitHub"
     },
     "GITHUB$NO_RESULTS": {
         "en": "No results found.",
@@ -3719,7 +3719,7 @@
         "de": "Keine Ergebnisse gefunden.",
         "it": "Nessun risultato trovato.",
         "pt": "Nenhum resultado encontrado.",
-        "uk": "No results found."
+        "uk": "Результатів не знайдено."
     },
     "GITHUB$LOADING_REPOSITORIES": {
         "en": "Loading repositories...",
@@ -3735,7 +3735,7 @@
         "ar": "لم يتم العثور على نتائج.",
         "no": "Ingen resultater funnet.",
         "tr": "Sonuç bulunamadı",
-        "uk": "Loading repositories..."
+        "uk": "Завантаження репозиторіїв..."
     },
     "GITHUB$ADD_MORE_REPOS": {
         "en": "Add more repositories...",
@@ -3751,7 +3751,7 @@
         "ar": "إضافة المزيد من المستودعات...",
         "no": "Legg til flere repositories...",
         "tr": "Daha fazla depo ekle",
-        "uk": "Add more repositories..."
+        "uk": "Додати більше репозиторіїв..."
     },
     "GITHUB$YOUR_REPOS": {
         "en": "Your Repos",
@@ -3767,7 +3767,7 @@
         "ar": "مستودعاتك",
         "no": "Dine repositories",
         "tr": "Depolarınız",
-        "uk": "Your Repos"
+        "uk": "Ваші репозиторії"
     },
     "GITHUB$PUBLIC_REPOS": {
         "en": "Public Repos",
@@ -3783,7 +3783,7 @@
         "ar": "المستودعات العامة",
         "no": "Offentlige repositories",
         "tr": "Herkese açık depolar",
-        "uk": "Public Repos"
+        "uk": "Публічні репозиторії"
     },
     "DOWNLOAD$PREPARING": {
         "en": "Preparing Download...",
@@ -3799,7 +3799,7 @@
         "ar": "جاري تحضير التنزيل...",
         "no": "Forbereder nedlasting...",
         "tr": "Hazırlanıyor",
-        "uk": "Preparing Download..."
+        "uk": "Підготовка завантаження..."
     },
     "DOWNLOAD$DOWNLOADING": {
         "en": "Downloading Files",
@@ -3815,7 +3815,7 @@
         "ar": "جاري تنزيل الملفات",
         "no": "Laster ned filer",
         "tr": "İndiriliyor",
-        "uk": "Downloading Files"
+        "uk": "Завантаження файлів"
     },
     "DOWNLOAD$FOUND_FILES": {
         "en": "Found {{count}} files...",
@@ -3831,7 +3831,7 @@
         "ar": "تم العثور على {{count}} ملف...",
         "no": "Fant {{count}} filer...",
         "tr": "Dosyalar bulundu",
-        "uk": "Found {{count}} files..."
+        "uk": "Знайдено {{count}} файлів..."
     },
     "DOWNLOAD$SCANNING": {
         "en": "Scanning workspace...",
@@ -3847,7 +3847,7 @@
         "ar": "جاري فحص مساحة العمل...",
         "no": "Skanner arbeidsområde...",
         "tr": "Taranıyor",
-        "uk": "Scanning workspace..."
+        "uk": "Сканування робочого простору..."
     },
     "DOWNLOAD$FILES_PROGRESS": {
         "en": "{{downloaded}} of {{total}} files",
@@ -3863,7 +3863,7 @@
         "ar": "{{downloaded}} من {{total}} ملف",
         "no": "{{downloaded}} av {{total}} filer",
         "tr": "Dosya ilerleme durumu",
-        "uk": "{{downloaded}} of {{total}} files"
+        "uk": "{{downloaded}} з {{total}} файлів"
     },
     "DOWNLOAD$CANCEL": {
         "en": "Cancel",
@@ -3879,7 +3879,7 @@
         "ar": "إلغاء",
         "no": "Avbryt",
         "tr": "İptal",
-        "uk": "Cancel"
+        "uk": "Скасувати"
     },
     "ACTION$CONFIRM": {
         "en": "Confirm action",
@@ -3895,7 +3895,7 @@
         "ar": "تأكيد الإجراء",
         "no": "Bekreft handling",
         "tr": "Onayla",
-        "uk": "Confirm action"
+        "uk": "Підтвердити дію"
     },
     "ACTION$REJECT": {
         "en": "Reject action",
@@ -3911,7 +3911,7 @@
         "ar": "رفض الإجراء",
         "no": "Avvis handling",
         "tr": "Reddet",
-        "uk": "Reject action"
+        "uk": "Відхилити дію"
     },
     "BADGE$BETA": {
         "en": "Beta",
@@ -3927,7 +3927,7 @@
         "ar": "تجريبي",
         "no": "Beta",
         "tr": "Beta",
-        "uk": "Beta"
+        "uk": "Бета"
     },
     "AGENT$RESUME_TASK": {
         "en": "Resume the agent task",
@@ -3943,7 +3943,7 @@
         "ar": "استئناف مهمة الوكيل",
         "no": "Gjenoppta agentoppgaven",
         "tr": "Görevi devam ettir",
-        "uk": "Resume the agent task"
+        "uk": "Відновити завдання агента"
     },
     "AGENT$PAUSE_TASK": {
         "en": "Pause the current task",
@@ -3959,7 +3959,7 @@
         "ar": "إيقاف المهمة الحالية مؤقتًا",
         "no": "Pause gjeldende oppgave",
         "tr": "Görevi duraklat",
-        "uk": "Pause the current task"
+        "uk": "Призупинити поточне завдання"
     },
     "TOS$ACCEPT": {
         "en": "I accept the",
@@ -3975,7 +3975,7 @@
         "ar": "أوافق على",
         "no": "Jeg godtar",
         "tr": "Kabul et",
-        "uk": "I accept the"
+        "uk": "Я приймаю"
     },
     "TOS$TERMS": {
         "en": "terms of service",
@@ -3991,7 +3991,7 @@
         "ar": "شروط الخدمة",
         "no": "vilkårene for bruk",
         "tr": "Kullanım şartları",
-        "uk": "terms of service"
+        "uk": "умови обслуговування"
     },
     "USER$ACCOUNT_SETTINGS": {
         "en": "Account settings",
@@ -4007,7 +4007,7 @@
         "ar": "إعدادات الحساب",
         "no": "Kontoinnstillinger",
         "tr": "Hesap ayarları",
-        "uk": "Account settings"
+        "uk": "Налаштування облікового запису"
     },
     "JUPYTER$OUTPUT_LABEL": {
         "en": "STDOUT/STDERR",
@@ -4039,7 +4039,7 @@
         "ar": "توقف",
         "no": "Stopp",
         "tr": "Durdur",
-        "uk": "Stop"
+        "uk": "Стоп"
     },
     "LANDING$ATTACH_IMAGES": {
         "en": "Attach images",
@@ -4055,7 +4055,7 @@
         "ar": "إرفاق صور",
         "no": "Legg ved bilder",
         "tr": "Resim ekle",
-        "uk": "Attach images"
+        "uk": "Додати зображення"
     },
     "LANDING$OPEN_REPO": {
         "en": "Open a Repo",
@@ -4071,7 +4071,7 @@
         "ar": "فتح مستودع",
         "no": "Åpne et repo",
         "tr": "Depo aç",
-        "uk": "Open a Repo"
+        "uk": "Відкрити репозиторій"
     },
     "LANDING$REPLAY": {
         "en": "+ Replay Trajectory",
@@ -4102,7 +4102,7 @@
         "ar": "Upload a .json",
         "no": "Upload a .json",
         "tr": "Upload a .json",
-        "uk": "Upload a .json"
+        "uk": "Завантажити .json"
     },
     "LANDING$RECENT_CONVERSATION": {
         "en": "jump back to your most recent conversation",
@@ -4118,7 +4118,7 @@
         "ar": "أو العودة إلى آخر محادثة",
         "no": "gå tilbake til din siste samtale",
         "tr": "Son konuşma",
-        "uk": "jump back to your most recent conversation"
+        "uk": "повернутися до вашої останньої розмови"
     },
     "CONVERSATION$CONFIRM_DELETE": {
         "en": "Confirm Delete",
@@ -4134,7 +4134,7 @@
         "fr": "Confirmer la suppression",
         "tr": "Silmeyi Onayla",
         "de": "Löschen bestätigen",
-        "uk": "Confirm Delete"
+        "uk": "Підтвердити видалення"
     },
     "CONVERSATION$METRICS_INFO": {
         "en": "Conversation Metrics",
@@ -4150,7 +4150,7 @@
         "fr": "Métriques de conversation",
         "tr": "Konuşma Metrikleri",
         "de": "Gesprächsmetriken",
-        "uk": "Conversation Metrics"
+        "uk": "Метрики розмов"
     },
     "CONVERSATION$CREATED": {
         "en": "Created",
@@ -4166,7 +4166,7 @@
         "ar": "تم الإنشاء",
         "fr": "Créé",
         "tr": "Oluşturuldu",
-        "uk": "Created"
+        "uk": "Створено"
     },
     "CONVERSATION$AGO": {
         "en": "ago",
@@ -4182,7 +4182,7 @@
         "ar": "منذ",
         "fr": "il y a",
         "tr": "önce",
-        "uk": "ago"
+        "uk": "тому"
     },
     "GITHUB$VSCODE_LINK_DESCRIPTION": {
         "en": "and use the VS Code link to upload and download your code",
@@ -4198,7 +4198,7 @@
         "ar": "واستخدم رابط VS Code لتحميل وتنزيل الكود الخاص بك",
         "fr": "et utilisez le lien VS Code pour télécharger et téléverser votre code",
         "tr": "ve kodunuzu yüklemek ve indirmek için VS Code bağlantısını kullanın",
-        "uk": "and use the VS Code link to upload and download your code"
+        "uk": "і скористайтеся посиланням VS Code, щоб завантажити свій код"
     },
     "CONVERSATION$EXIT_WARNING": {
         "en": "Exit Conversation",
@@ -4214,7 +4214,7 @@
         "fr": "Quitter la conversation",
         "tr": "Konuşmadan Çık",
         "de": "Gespräch verlassen",
-        "uk": "Exit Conversation"
+        "uk": "Вийти з розмови"
     },
     "LANDING$OR": {
         "en": "Or",
@@ -4231,7 +4231,7 @@
         "no": "Eller",
         "tr": "veya",
         "fa": "یا",
-        "uk": "Or"
+        "uk": "Або"
     },
     "SUGGESTIONS$TEST_COVERAGE": {
         "en": "Increase my test coverage",
@@ -4247,7 +4247,7 @@
         "ar": "زيادة تغطية الاختبار",
         "no": "Øk min testdekning",
         "tr": "Test kapsamı",
-        "uk": "Increase my test coverage"
+        "uk": "Збільшити моє охоплення тестами"
     },
     "SUGGESTIONS$AUTO_MERGE": {
         "en": "Auto-merge Dependabot PRs",
@@ -4264,7 +4264,7 @@
         "no": "Auto-flett Dependabot PRs",
         "tr": "Otomatik birleştirme",
         "fa": "ادغام خودکار درخواست‌های Dependabot",
-        "uk": "Auto-merge Dependabot PRs"
+        "uk": "Автоматичне об'єднання Dependabot PR"
     },
     "CHAT_INTERFACE$AGENT_STOPPED_MESSAGE": {
         "en": "Agent has stopped.",
@@ -4280,7 +4280,7 @@
         "fr": "L'agent s'est arrêté.",
         "tr": "Ajan durdu.",
         "ja": "エージェントが停止しました",
-        "uk": "Agent has stopped."
+        "uk": "Агент зупинився."
     },
     "CHAT_INTERFACE$AGENT_FINISHED_MESSAGE": {
         "en": "Agent has finished the task.",
@@ -4296,7 +4296,7 @@
         "fr": "L'agent a terminé la tâche.",
         "tr": "Ajan görevi tamamladı.",
         "ja": "エージェントがタスクを完了しました",
-        "uk": "Agent has finished the task."
+        "uk": "Агент виконав завдання."
     },
     "CHAT_INTERFACE$AGENT_REJECTED_MESSAGE": {
         "en": "Agent has rejected the task.",
@@ -4312,7 +4312,7 @@
         "fr": "L'agent a rejeté la tâche.",
         "tr": "Ajan görevi reddetti.",
         "ja": "エージェントがタスクを拒否しました",
-        "uk": "Agent has rejected the task."
+        "uk": "Агент відхилив завдання."
     },
     "CHAT_INTERFACE$AGENT_ERROR_MESSAGE": {
         "en": "Agent encountered an error.",
@@ -4328,7 +4328,7 @@
         "fr": "L'agent a rencontré une erreur.",
         "tr": "Ajan bir hatayla karşılaştı.",
         "ja": "エージェントでエラーが発生しました",
-        "uk": "Agent encountered an error."
+        "uk": "Агент зіткнувся з помилкою."
     },
     "CHAT_INTERFACE$AGENT_AWAITING_USER_CONFIRMATION_MESSAGE": {
         "en": "Agent is awaiting user confirmation for the pending action.",
@@ -4344,7 +4344,7 @@
         "fr": "L'agent attend la confirmation de l'utilisateur pour l'action en attente.",
         "tr": "Ajan, bekleyen işlem için kullanıcı onayını bekliyor.",
         "ja": "ユーザーの確認を待っています",
-        "uk": "Agent is awaiting user confirmation for the pending action."
+        "uk": "Агент очікує підтвердження користувача для дії, що очікує на виконання."
     },
     "CHAT_INTERFACE$AGENT_ACTION_USER_CONFIRMED_MESSAGE": {
         "en": "Agent action has been confirmed!",
@@ -4360,7 +4360,7 @@
         "fr": "L'action de l'agent a été confirmée !",
         "tr": "Ajan eylemi onaylandı!",
         "ja": "ユーザーがアクションを承認しました",
-        "uk": "Agent action has been confirmed!"
+        "uk": "Дію агента підтверджено!"
     },
     "CHAT_INTERFACE$AGENT_ACTION_USER_REJECTED_MESSAGE": {
         "en": "Agent action has been rejected!",
@@ -4376,7 +4376,7 @@
         "fr": "L'action de l'agent a été rejetée !",
         "tr": "Ajan eylemi reddedildi!",
         "ja": "ユーザーがアクションを拒否しました",
-        "uk": "Agent action has been rejected!"
+        "uk": "Дію агента відхилено!"
     },
     "CHAT_INTERFACE$INPUT_PLACEHOLDER": {
         "en": "Message assistant...",
@@ -4392,7 +4392,7 @@
         "fr": "Envoyez un message à l'assistant...",
         "tr": "Asistana mesaj gönder...",
         "ja": "メッセージを入力してください...",
-        "uk": "Message assistant..."
+        "uk": "Написати помічнику..."
     },
     "CHAT_INTERFACE$INPUT_CONTINUE_MESSAGE": {
         "en": "Continue",
@@ -4408,7 +4408,7 @@
         "fr": "Continuer",
         "tr": "Devam et",
         "ja": "続行するにはEnterを押してください",
-        "uk": "Continue"
+        "uk": "Продовжити"
     },
     "CHAT_INTERFACE$USER_ASK_CONFIRMATION": {
         "en": "Do you want to continue with this action?",
@@ -4424,7 +4424,7 @@
         "fr": "Voulez-vous continuer avec cette action ?",
         "tr": "Bu işleme devam etmek istiyor musunuz?",
         "ja": "このアクションを実行してもよろしいですか？",
-        "uk": "Do you want to continue with this action?"
+        "uk": "Ви хочете продовжити цю дію?"
     },
     "CHAT_INTERFACE$USER_CONFIRMED": {
         "en": "Confirm the requested action",
@@ -4440,7 +4440,7 @@
         "fr": "Confirmer l'action demandée",
         "tr": "İstenen eylemi onayla",
         "ja": "ユーザーが承認しました",
-        "uk": "Confirm the requested action"
+        "uk": "Підтвердьте запитувану дію"
     },
     "CHAT_INTERFACE$USER_REJECTED": {
         "en": "Reject the requested action",
@@ -4456,7 +4456,7 @@
         "fr": "Rejeter l'action demandée",
         "tr": "İstenen eylemi reddet",
         "ja": "ユーザーが拒否しました",
-        "uk": "Reject the requested action"
+        "uk": "Відхилити запитувану дію"
     },
     "CHAT_INTERFACE$INPUT_SEND_MESSAGE_BUTTON_CONTENT": {
         "en": "Send",
@@ -4472,7 +4472,7 @@
         "fr": "Envoyer",
         "ja": "送信",
         "tr": "Gönder",
-        "uk": "Send"
+        "uk": "Надіслати"
     },
     "CHAT_INTERFACE$CHAT_MESSAGE_COPIED": {
         "en": "Message copied to clipboard",
@@ -4488,7 +4488,7 @@
         "fr": "Message copié dans le presse-papiers",
         "tr": "Mesaj panoya kopyalandı",
         "ja": "メッセージをコピーしました",
-        "uk": "Message copied to clipboard"
+        "uk": "Повідомлення скопійовано в буфер обміну"
     },
     "CHAT_INTERFACE$CHAT_MESSAGE_COPY_FAILED": {
         "en": "Failed to copy message to clipboard",
@@ -4504,7 +4504,7 @@
         "fr": "Échec de la copie du message dans le presse-papiers",
         "tr": "Mesaj panoya kopyalanamadı",
         "ja": "メッセージのコピーに失敗しました",
-        "uk": "Failed to copy message to clipboard"
+        "uk": "Не вдалося скопіювати повідомлення в буфер обміну"
     },
     "CHAT_INTERFACE$TOOLTIP_COPY_MESSAGE": {
         "en": "Copy message",
@@ -4520,7 +4520,7 @@
         "fr": "Copier le message",
         "tr": "Mesajı kopyala",
         "ja": "メッセージをコピー",
-        "uk": "Copy message"
+        "uk": "Копіювати повідомлення"
     },
     "CHAT_INTERFACE$TOOLTIP_SEND_MESSAGE": {
         "en": "Send message",
@@ -4536,7 +4536,7 @@
         "fr": "Envoyer le message",
         "tr": "Mesaj gönder",
         "ja": "メッセージを送信",
-        "uk": "Send message"
+        "uk": "Надіслати повідомлення"
     },
     "CHAT_INTERFACE$TOOLTIP_UPLOAD_IMAGE": {
         "en": "Upload image",
@@ -4552,7 +4552,7 @@
         "fr": "Télécharger une image",
         "tr": "Resim yükle",
         "ja": "画像をアップロード",
-        "uk": "Upload image"
+        "uk": "Завантажити зображення"
     },
     "CHAT_INTERFACE$INITIAL_MESSAGE": {
         "en": "Hi! I'm OpenHands, an AI Software Engineer. What would you like to build with me today?",
@@ -4568,7 +4568,7 @@
         "fr": "Salut! Je suis OpenHands, un ingénieur logiciel en IA. Que voudriez-vous construire avec moi aujourd'hui?",
         "ja": "何を作りたいですか？",
         "tr": "Ne yapmak istersiniz?",
-        "uk": "Hi! I'm OpenHands, an AI Software Engineer. What would you like to build with me today?"
+        "uk": "Привіт! Я OpenHands, ШІ інженер-програміст. Що б ви хотіли створити зі мною сьогодні?"
     },
     "CHAT_INTERFACE$ASSISTANT": {
         "en": "Assistant",
@@ -4584,7 +4584,7 @@
         "fr": "Assistant",
         "tr": "Gönder",
         "ja": "アシスタント",
-        "uk": "Assistant"
+        "uk": "Помічник"
     },
     "CHAT_INTERFACE$TO_BOTTOM": {
         "en": "To Bottom",
@@ -4600,7 +4600,7 @@
         "fr": "Vers le bas",
         "tr": "En alta",
         "ja": "一番下へ",
-        "uk": "To Bottom"
+        "uk": "Вниз"
     },
     "CHAT_INTERFACE$MESSAGE_ARIA_LABEL": {
         "en": "Message from {{sender}}",
@@ -4616,7 +4616,7 @@
         "fr": "Message de {{sender}}",
         "tr": "{{sender}} tarafından gönderilen mesaj",
         "ja": "メッセージ",
-        "uk": "Message from {{sender}}"
+        "uk": "Повідомлення від {{sender}}"
     },
     "CHAT_INTERFACE$CHAT_CONVERSATION": {
         "en": "Chat Conversation",
@@ -4632,7 +4632,7 @@
         "fr": "Conversation de chat",
         "tr": "Sohbet Konuşması",
         "ja": "チャット会話",
-        "uk": "Chat Conversation"
+        "uk": "Розмова в чаті"
     },
     "CHAT_INTERFACE$UNKNOWN_SENDER": {
         "en": "Unknown",
@@ -4648,7 +4648,7 @@
         "fr": "Inconnu",
         "tr": "Bilinmeyen",
         "ja": "不明な送信者",
-        "uk": "Unknown"
+        "uk": "Невідомий"
     },
     "SECURITY_ANALYZER$UNKNOWN_RISK": {
         "en": "Unknown Risk",
@@ -4664,7 +4664,7 @@
         "fr": "Risque inconnu",
         "tr": "Bilinmeyen risk",
         "ja": "不明なリスク",
-        "uk": "Unknown Risk"
+        "uk": "Невідомий ризик"
     },
     "SECURITY_ANALYZER$LOW_RISK": {
         "en": "Low Risk",
@@ -4680,7 +4680,7 @@
         "fr": "Risque faible",
         "tr": "Düşük risk",
         "ja": "低リスク",
-        "uk": "Low Risk"
+        "uk": "Низький ризик"
     },
     "SECURITY_ANALYZER$MEDIUM_RISK": {
         "en": "Medium Risk",
@@ -4696,7 +4696,7 @@
         "fr": "Risque moyen",
         "tr": "Orta risk",
         "ja": "中リスク",
-        "uk": "Medium Risk"
+        "uk": "Середній ризик"
     },
     "SECURITY_ANALYZER$HIGH_RISK": {
         "en": "High Risk",
@@ -4712,7 +4712,7 @@
         "fr": "Risque élevé",
         "tr": "Yüksek risk",
         "ja": "高リスク",
-        "uk": "High Risk"
+        "uk": "Високий ризик"
     },
     "SETTINGS$MODEL_TOOLTIP": {
         "en": "Select the language model to use.",
@@ -4728,7 +4728,7 @@
         "fr": "Sélectionnez le modèle de langage à utiliser.",
         "tr": "Kullanılacak dil modelini seçin.",
         "ja": "使用するモデルを選択",
-        "uk": "Select the language model to use."
+        "uk": "Виберіть мовну модель, яку потрібно використовувати."
     },
     "SETTINGS$AGENT_TOOLTIP": {
         "en": "Select the agent to use.",
@@ -4744,7 +4744,7 @@
         "fr": "Sélectionnez l'agent à utiliser.",
         "tr": "Kullanılacak ajanı seçin.",
         "ja": "使用するエージェントを選択",
-        "uk": "Select the agent to use."
+        "uk": "Виберіть агента для використання."
     },
     "SETTINGS$LANGUAGE_TOOLTIP": {
         "en": "Select the language for the UI.",
@@ -4760,7 +4760,7 @@
         "fr": "Sélectionnez la langue de l'interface utilisateur.",
         "tr": "Kullanıcı arayüzü için dil seçin.",
         "ja": "インターフェースの言語を選択",
-        "uk": "Select the language for the UI."
+        "uk": "Виберіть мову для інтерфейсу користувача."
     },
     "SETTINGS$DISABLED_RUNNING": {
         "en": "Cannot be changed while the agent is running.",
@@ -4776,7 +4776,7 @@
         "fr": "Ne peut pas être modifié pendant que l'agent est en cours d'exécution.",
         "tr": "Ajan çalışırken değiştirilemez.",
         "ja": "エージェントの実行中は設定を変更できません",
-        "uk": "Cannot be changed while the agent is running."
+        "uk": "Не можна змінити, поки агент працює."
     },
     "SETTINGS$API_KEY_PLACEHOLDER": {
         "en": "Enter your API key.",
@@ -4792,7 +4792,7 @@
         "fr": "Entrez votre clé API.",
         "tr": "API anahtarınızı girin.",
         "ja": "APIキーを入力",
-        "uk": "Enter your API key."
+        "uk": "Введіть свій ключ API."
     },
     "SETTINGS$CONFIRMATION_MODE": {
         "en": "Enable Confirmation Mode",
@@ -4808,7 +4808,7 @@
         "fr": "Activer le mode de confirmation",
         "tr": "Onay Modunu Etkinleştir",
         "ja": "確認モード",
-        "uk": "Enable Confirmation Mode"
+        "uk": "Увімкнути режим підтвердження"
     },
     "SETTINGS$CONFIRMATION_MODE_TOOLTIP": {
         "en": "Awaits for user confirmation before executing code.",
@@ -4824,7 +4824,7 @@
         "fr": "Attend la confirmation de l'utilisateur avant d'exécuter le code.",
         "tr": "Kodu çalıştırmadan önce kullanıcı onayını bekler.",
         "ja": "エージェントのアクションを実行前に確認",
-        "uk": "Awaits for user confirmation before executing code."
+        "uk": "Очікує підтвердження користувача перед виконанням коду."
     },
     "SETTINGS$AGENT_SELECT_ENABLED": {
         "en": "Enable Agent Selection - Advanced Users",
@@ -4840,7 +4840,7 @@
         "fr": "Activer la sélection d'agent - Utilisateurs avancés",
         "tr": "Ajan Seçimini Etkinleştir - İleri Düzey Kullanıcılar",
         "ja": "エージェント選択を有効化",
-        "uk": "Enable Agent Selection - Advanced Users"
+        "uk": "Увімкнути вибір агента – Досвідчені користувачі"
     },
     "SETTINGS$SECURITY_ANALYZER": {
         "en": "Enable Security Analyzer",
@@ -4856,7 +4856,7 @@
         "fr": "Activer l'analyseur de sécurité",
         "tr": "Güvenlik Analizörünü Etkinleştir",
         "ja": "セキュリティアナライザー",
-        "uk": "Enable Security Analyzer"
+        "uk": "Увімкнути аналізатор безпеки"
     },
     "SETTINGS$DONT_KNOW_API_KEY": {
         "en": "Don't know your API key?",
@@ -4872,7 +4872,7 @@
         "fr": "Vous ne connaissez pas votre clé API ?",
         "tr": "API anahtarınızı bilmiyor musunuz?",
         "de": "Kennen Sie Ihren API-Schlüssel nicht?",
-        "uk": "Don't know your API key?"
+        "uk": "Не знаєте свого API ключа?"
     },
     "SETTINGS$CLICK_FOR_INSTRUCTIONS": {
         "en": "Click here for instructions",
@@ -4888,7 +4888,7 @@
         "fr": "Cliquez ici pour les instructions",
         "tr": "Talimatlar için buraya tıklayın",
         "de": "Klicken Sie hier für Anweisungen",
-        "uk": "Click here for instructions"
+        "uk": "Натисніть тут, щоб отримати інструкції"
     },
     "SETTINGS$SAVED": {
         "en": "Settings saved",
@@ -4904,7 +4904,7 @@
         "fr": "Paramètres enregistrés",
         "tr": "Ayarlar kaydedildi",
         "de": "Einstellungen gespeichert",
-        "uk": "Settings saved"
+        "uk": "Налаштування збережено"
     },
     "SETTINGS$RESET": {
         "en": "Settings reset",
@@ -4920,87 +4920,87 @@
         "fr": "Paramètres réinitialisés",
         "tr": "Ayarlar sıfırlandı",
         "de": "Einstellungen zurückgesetzt",
-        "uk": "Settings reset"
+        "uk": "Скидання налаштувань"
     },
     "SETTINGS$API_KEYS": {
         "en": "API Keys",
-        "uk": "API Keys"
+        "uk": "API ключі"
     },
     "SETTINGS$API_KEYS_DESCRIPTION": {
         "en": "API keys allow you to authenticate with the OpenHands API programmatically. Keep your API keys secure; anyone with your API key can access your account.",
-        "uk": "API keys allow you to authenticate with the OpenHands API programmatically. Keep your API keys secure; anyone with your API key can access your account."
+        "uk": "Ключі API дозволяють вам програмно автентифікуватися за допомогою API OpenHands. Зберігайте свої ключі API в безпеці; будь-хто, хто має ваш ключ API, може отримати доступ до вашого облікового запису."
     },
     "SETTINGS$CREATE_API_KEY": {
         "en": "Create API Key",
-        "uk": "Create API Key"
+        "uk": "Створити API ключ"
     },
     "SETTINGS$CREATE_API_KEY_DESCRIPTION": {
         "en": "Give your API key a descriptive name to help you identify it later.",
-        "uk": "Give your API key a descriptive name to help you identify it later."
+        "uk": "Дайте своєму ключу API змістовну назву, щоб ви могли його пізніше ідентифікувати."
     },
     "SETTINGS$DELETE_API_KEY": {
         "en": "Delete API Key",
-        "uk": "Delete API Key"
+        "uk": "Видалити API ключ"
     },
     "SETTINGS$DELETE_API_KEY_CONFIRMATION": {
         "en": "Are you sure you want to delete the API key \"{{name}}\"? This action cannot be undone.",
-        "uk": "Are you sure you want to delete the API key \"{{name}}\"? This action cannot be undone."
+        "uk": "Ви впевнені, що хочете видалити ключ API \"{{name}}\"? Цю дію не можна скасувати."
     },
     "SETTINGS$NO_API_KEYS": {
         "en": "You don't have any API keys yet. Create one to get started.",
-        "uk": "You don't have any API keys yet. Create one to get started."
+        "uk": "У вас ще немає API-ключів. Створіть один, щоб почати."
     },
     "SETTINGS$NAME": {
         "en": "Name",
-        "uk": "Name"
+        "uk": "Назва"
     },
     "SETTINGS$KEY_PREFIX": {
         "en": "Key Prefix",
-        "uk": "Key Prefix"
+        "uk": "Префікс ключа"
     },
     "SETTINGS$CREATED_AT": {
         "en": "Created",
-        "uk": "Created"
+        "uk": "Створено"
     },
     "SETTINGS$LAST_USED": {
         "en": "Last Used",
-        "uk": "Last Used"
+        "uk": "Останнє використання"
     },
     "SETTINGS$ACTIONS": {
         "en": "Actions",
-        "uk": "Actions"
+        "uk": "Дії"
     },
     "SETTINGS$API_KEY_CREATED": {
         "en": "API Key Created",
-        "uk": "API Key Created"
+        "uk": "API-ключ створено"
     },
     "SETTINGS$API_KEY_DELETED": {
         "en": "API key deleted successfully",
-        "uk": "API key deleted successfully"
+        "uk": "API-ключ видалено"
     },
     "SETTINGS$API_KEY_WARNING": {
         "en": "This is the only time your API key will be displayed. Please copy it now and store it securely.",
-        "uk": "This is the only time your API key will be displayed. Please copy it now and store it securely."
+        "uk": "Це єдиний раз, коли буде відображено ваш ключ API. Будь ласка, скопіюйте його зараз і збережіть у безпеці.."
     },
     "SETTINGS$API_KEY_COPIED": {
         "en": "API key copied to clipboard",
-        "uk": "API key copied to clipboard"
+        "uk": "Ключ API скопійовано в буфер обміну"
     },
     "SETTINGS$API_KEY_NAME_PLACEHOLDER": {
         "en": "My API Key",
-        "uk": "My API Key"
+        "uk": "Мій ключ API"
     },
     "BUTTON$CREATE": {
         "en": "Create",
-        "uk": "Create"
+        "uk": "Створити"
     },
     "BUTTON$DELETE": {
         "en": "Delete",
-        "uk": "Delete"
+        "uk": "Видалити"
     },
     "BUTTON$COPY_TO_CLIPBOARD": {
         "en": "Copy to Clipboard",
-        "uk": "Copy to Clipboard"
+        "uk": "Копіювати в буфер обміну"
     },
     "BUTTON$REFRESH": {
         "en": "Refresh",
@@ -5016,11 +5016,11 @@
         "fr": "Rafraîchir",
         "tr": "Yenile",
         "de": "Aktualisieren",
-        "uk": "Refresh"
+        "uk": "Оновити"
     },
     "ERROR$REQUIRED_FIELD": {
         "en": "This field is required",
-        "uk": "This field is required"
+        "uk": "Це поле обов'язкове"
     },
     "PLANNER$EMPTY_MESSAGE": {
         "en": "No plan created.",
@@ -5036,7 +5036,7 @@
         "fr": "Aucun plan créé.",
         "tr": "Plan oluşturulmadı.",
         "ja": "プランナーは空です",
-        "uk": "No plan created."
+        "uk": "План не створено."
     },
     "FEEDBACK$PUBLIC_LABEL": {
         "en": "Public",
@@ -5052,7 +5052,7 @@
         "fr": "Public",
         "tr": "Herkese Açık",
         "ja": "公開",
-        "uk": "Public"
+        "uk": "Загальнодоступний"
     },
     "FEEDBACK$PRIVATE_LABEL": {
         "en": "Private",
@@ -5068,7 +5068,7 @@
         "fr": "Privé",
         "tr": "Özel",
         "ja": "非公開",
-        "uk": "Private"
+        "uk": "Приватний"
     },
     "SIDEBAR$CONVERSATIONS": {
         "en": "Conversations",
@@ -5084,7 +5084,7 @@
         "ar": "المحادثات",
         "fr": "Conversations",
         "tr": "Konuşmalar",
-        "uk": "Conversations"
+        "uk": "Розмови"
     },
     "STATUS$STARTING_RUNTIME": {
         "en": "Starting runtime...",
@@ -5100,7 +5100,7 @@
         "fr": "Démarrage de l'environnement d'exécution...",
         "tr": "Çalışma zamanı başlatılıyor...",
         "ja": "ランタイムを開始中",
-        "uk": "Starting runtime..."
+        "uk": "Запуск середовища виконання..."
     },
     "STATUS$STARTING_CONTAINER": {
         "en": "Preparing container, this might take a few minutes...",
@@ -5116,7 +5116,7 @@
         "fr": "Préparation du conteneur, cela peut prendre quelques minutes...",
         "tr": "Konteyner hazırlanıyor, bu işlem birkaç dakika sürebilir...",
         "ja": "コンテナを開始中",
-        "uk": "Preparing container, this might take a few minutes..."
+        "uk": "Підготовка контейнера, це може тривати кілька хвилин..."
     },
     "STATUS$PREPARING_CONTAINER": {
         "en": "Preparing to start container...",
@@ -5148,7 +5148,7 @@
         "fr": "Conteneur démarré.",
         "tr": "Konteyner başlatıldı.",
         "ja": "コンテナが開始されました",
-        "uk": "Container started."
+        "uk": "Контейнер запущено."
     },
     "STATUS$SETTING_UP_WORKSPACE": {
         "en": "Setting up workspace...",
@@ -5164,7 +5164,7 @@
         "fr": "Configuration de l'espace de travail...",
         "tr": "Çalışma alanı ayarlanıyor...",
         "ja": "ワークスペースを設定中...",
-        "uk": "Setting up workspace..."
+        "uk": "Налаштування робочого простору..."
     },
     "STATUS$SETTING_UP_GIT_HOOKS": {
         "en": "Setting up git hooks...",
@@ -5180,7 +5180,7 @@
         "fr": "Configuration des hooks git...",
         "tr": "Git kancaları ayarlanıyor...",
         "ja": "git フックを設定中...",
-        "uk": "Setting up git hooks..."
+        "uk": "Налаштування git-хуків..."
     },
     "ACCOUNT_SETTINGS_MODAL$DISCONNECT": {
         "en": "Disconnect",
@@ -5196,7 +5196,7 @@
         "it": "Disconnetti",
         "pt": "Desconectar",
         "tr": "Bağlantıyı kes",
-        "uk": "Disconnect"
+        "uk": "Відключитися"
     },
     "ACCOUNT_SETTINGS_MODAL$SAVE": {
         "en": "Save",
@@ -5212,7 +5212,7 @@
         "it": "Salva",
         "pt": "Salvar",
         "tr": "Kaydet",
-        "uk": "Save"
+        "uk": "Зберегти"
     },
     "ACCOUNT_SETTINGS_MODAL$CLOSE": {
         "en": "Close",
@@ -5228,7 +5228,7 @@
         "it": "Chiudi",
         "pt": "Fechar",
         "tr": "Kapat",
-        "uk": "Close"
+        "uk": "Закрити"
     },
     "ACCOUNT_SETTINGS_MODAL$GITHUB_TOKEN_INVALID": {
         "en": "GitHub token is invalid. Please try again.",
@@ -5244,7 +5244,7 @@
         "it": "Il token GitHub non è valido. Per favore riprova.",
         "pt": "O token do GitHub é inválido. Por favor, tente novamente.",
         "tr": "GitHub token'ı geçersiz. Lütfen tekrar deneyin.",
-        "uk": "GitHub token is invalid. Please try again."
+        "uk": "Токен GitHub недійсний. Спробуйте ще раз."
     },
     "CONNECT_TO_GITHUB_MODAL$GET_YOUR_TOKEN": {
         "en": "Get your token",
@@ -5260,7 +5260,7 @@
         "it": "Ottieni il tuo token",
         "pt": "Obtenha seu token",
         "tr": "Token'ınızı alın",
-        "uk": "Get your token"
+        "uk": "Отримайте свій токен"
     },
     "CONNECT_TO_GITHUB_MODAL$HERE": {
         "en": "here",
@@ -5276,7 +5276,7 @@
         "it": "qui",
         "pt": "aqui",
         "tr": "burada",
-        "uk": "here"
+        "uk": "тут"
     },
     "CONNECT_TO_GITHUB_MODAL$CONNECT": {
         "en": "Connect",
@@ -5292,7 +5292,7 @@
         "tr": "Bağlan",
         "ko-KR": "연결",
         "ja": "接続",
-        "uk": "Connect"
+        "uk": "Підключитися"
     },
     "CONNECT_TO_GITHUB_MODAL$CLOSE": {
         "en": "Close",
@@ -5308,7 +5308,7 @@
         "it": "Chiudi",
         "pt": "Fechar",
         "tr": "Kapat",
-        "uk": "Close"
+        "uk": "Закрити"
     },
     "CONNECT_TO_GITHUB_BY_TOKEN_MODAL$BY_CONNECTING_YOU_AGREE": {
         "en": "By connecting you agree to our",
@@ -5324,7 +5324,7 @@
         "it": "Connettendoti accetti i nostri",
         "pt": "Ao conectar você concorda com nossos",
         "tr": "Bağlanarak kabul etmiş olursunuz",
-        "uk": "By connecting you agree to our"
+        "uk": "Підключаючись, ви погоджуєтеся з нашими"
     },
     "CONNECT_TO_GITHUB_BY_TOKEN_MODAL$CONTINUE": {
         "en": "Continue",
@@ -5340,7 +5340,7 @@
         "it": "Continua",
         "pt": "Continuar",
         "tr": "Devam et",
-        "uk": "Continue"
+        "uk": "Продовжити"
     },
     "LOADING_PROJECT$LOADING": {
         "en": "Loading...",
@@ -5356,7 +5356,7 @@
         "it": "Caricamento...",
         "pt": "Carregando...",
         "tr": "Yükleniyor...",
-        "uk": "Loading..."
+        "uk": "Завантаження..."
     },
     "CUSTOM_INPUT$OPTIONAL_LABEL": {
         "en": "(Optional)",
@@ -5372,7 +5372,7 @@
         "it": "(Opzionale)",
         "pt": "(Opcional)",
         "tr": "(İsteğe bağlı)",
-        "uk": "(Optional)"
+        "uk": "(Необов'язково)"
     },
     "SETTINGS_FORM$CUSTOM_MODEL_LABEL": {
         "en": "Custom Model",
@@ -5388,7 +5388,7 @@
         "it": "Modello personalizzato",
         "pt": "Modelo personalizado",
         "tr": "Özel model",
-        "uk": "Custom Model"
+        "uk": "Власна модель"
     },
     "SETTINGS_FORM$BASE_URL_LABEL": {
         "en": "Base URL",
@@ -5404,7 +5404,7 @@
         "it": "URL di base",
         "pt": "URL base",
         "tr": "Temel URL",
-        "uk": "Base URL"
+        "uk": "Базовий URL"
     },
     "SETTINGS_FORM$API_KEY_LABEL": {
         "en": "API Key",
@@ -5420,7 +5420,7 @@
         "it": "Chiave API",
         "pt": "Chave API",
         "tr": "API Anahtarı",
-        "uk": "API Key"
+        "uk": "Ключ API"
     },
     "SETTINGS_FORM$DONT_KNOW_API_KEY_LABEL": {
         "en": "Don't know your API key?",
@@ -5436,7 +5436,7 @@
         "it": "Non conosci la tua chiave API?",
         "pt": "Não sabe sua chave API?",
         "tr": "API anahtarınızı bilmiyor musunuz?",
-        "uk": "Don't know your API key?"
+        "uk": "Не знаєте свого API-ключа?"
     },
     "SETTINGS_FORM$CLICK_HERE_FOR_INSTRUCTIONS_LABEL": {
         "en": "Click here for instructions",
@@ -5452,7 +5452,7 @@
         "it": "Clicca qui per le istruzioni",
         "pt": "Clique aqui para instruções",
         "tr": "Talimatlar için buraya tıklayın",
-        "uk": "Click here for instructions"
+        "uk": "Натисніть тут, щоб отримати інструкції"
     },
     "SETTINGS_FORM$AGENT_LABEL": {
         "en": "Agent",
@@ -5468,7 +5468,7 @@
         "it": "Agente",
         "pt": "Agente",
         "tr": "Ajan",
-        "uk": "Agent"
+        "uk": "Агент"
     },
     "SETTINGS_FORM$SECURITY_ANALYZER_LABEL": {
         "en": "Security Analyzer (Optional)",
@@ -5484,7 +5484,7 @@
         "it": "Analizzatore di sicurezza (Opzionale)",
         "pt": "Analisador de segurança (Opcional)",
         "tr": "Güvenlik Analizörü (İsteğe bağlı)",
-        "uk": "Security Analyzer (Optional)"
+        "uk": "Аналізатор безпеки (необов'язково)"
     },
     "SETTINGS_FORM$ENABLE_CONFIRMATION_MODE_LABEL": {
         "en": "Enable Confirmation Mode",
@@ -5500,7 +5500,7 @@
         "it": "Abilita modalità di conferma",
         "pt": "Ativar modo de confirmação",
         "tr": "Onay modunu etkinleştir",
-        "uk": "Enable Confirmation Mode"
+        "uk": "Увімкнути режим підтвердження"
     },
     "SETTINGS_FORM$SAVE_LABEL": {
         "en": "Save",
@@ -5516,7 +5516,7 @@
         "it": "Salva",
         "pt": "Salvar",
         "tr": "Kaydet",
-        "uk": "Save"
+        "uk": "Зберегти"
     },
     "SETTINGS_FORM$CLOSE_LABEL": {
         "en": "Close",
@@ -5532,7 +5532,7 @@
         "it": "Chiudi",
         "pt": "Fechar",
         "tr": "Kapat",
-        "uk": "Close"
+        "uk": "Закрити"
     },
     "SETTINGS_FORM$CANCEL_LABEL": {
         "en": "Cancel",
@@ -5548,7 +5548,7 @@
         "it": "Annulla",
         "pt": "Cancelar",
         "tr": "İptal",
-        "uk": "Cancel"
+        "uk": "Скасувати"
     },
     "SETTINGS_FORM$END_SESSION_LABEL": {
         "en": "End Session",
@@ -5564,7 +5564,7 @@
         "it": "Termina sessione",
         "pt": "Encerrar sessão",
         "tr": "Oturumu sonlandır",
-        "uk": "End Session"
+        "uk": "Закінчити сеанс"
     },
     "SETTINGS_FORM$CHANGING_WORKSPACE_WARNING_MESSAGE": {
         "en": "Changing your settings will clear your workspace and start a new session. Are you sure you want to continue?",
@@ -5580,7 +5580,7 @@
         "it": "La modifica delle impostazioni cancellerà il tuo spazio di lavoro e avvierà una nuova sessione. Sei sicuro di voler continuare?",
         "pt": "Alterar suas configurações limpará seu espaço de trabalho e iniciará uma nova sessão. Tem certeza de que deseja continuar?",
         "tr": "Ayarlarınızı değiştirmek çalışma alanınızı temizleyecek ve yeni bir oturum başlatacak. Devam etmek istediğinizden emin misiniz?",
-        "uk": "Changing your settings will clear your workspace and start a new session. Are you sure you want to continue?"
+        "uk": "Зміна налаштувань очистить вашу робочу область та розпочне новий сеанс. Ви впевнені, що хочете продовжити?"
     },
     "SETTINGS_FORM$ARE_YOU_SURE_LABEL": {
         "en": "Are you sure?",
@@ -5596,7 +5596,7 @@
         "it": "Sei sicuro?",
         "pt": "Tem certeza?",
         "tr": "Emin misiniz?",
-        "uk": "Are you sure?"
+        "uk": "Ви впевнені?"
     },
     "SETTINGS_FORM$ALL_INFORMATION_WILL_BE_DELETED_MESSAGE": {
         "en": "All saved information in your AI settings will be deleted, including any API keys.",
@@ -5612,7 +5612,7 @@
         "it": "Tutte le informazioni salvate nelle tue impostazioni AI saranno eliminate, incluse le chiavi API.",
         "pt": "Todas as informações salvas nas suas configurações de IA serão excluídas, incluindo quaisquer chaves API.",
         "tr": "API anahtarları dahil olmak üzere AI ayarlarınızdaki tüm kayıtlı bilgiler silinecektir.",
-        "uk": "All saved information in your AI settings will be deleted, including any API keys."
+        "uk": "Усю збережену інформацію у ваших налаштуваннях штучного інтелекту буде видалено, включаючи будь-які ключі API."
     },
     "PROJECT_MENU_DETAILS_PLACEHOLDER$NEW_PROJECT_LABEL": {
         "en": "New Project",
@@ -5628,7 +5628,7 @@
         "it": "Nuovo progetto",
         "pt": "Novo projeto",
         "tr": "Yeni proje",
-        "uk": "New Project"
+        "uk": "Новий проект"
     },
     "PROJECT_MENU_DETAILS_PLACEHOLDER$CONNECT_TO_GITHUB": {
         "en": "Connect to GitHub",
@@ -5644,7 +5644,7 @@
         "pt": "Conectar ao GitHub",
         "es": "Conectar a GitHub",
         "tr": "GitHub'a bağlan",
-        "uk": "Connect to GitHub"
+        "uk": "Підключитися до GitHub"
     },
     "PROJECT_MENU_DETAILS_PLACEHOLDER$CONNECTED": {
         "en": "Connected",
@@ -5660,7 +5660,7 @@
         "pt": "Conectado",
         "es": "Conectado",
         "tr": "Bağlandı",
-        "uk": "Connected"
+        "uk": "Підключено"
     },
     "PROJECT_MENU_DETAILS$AGO_LABEL": {
         "en": "ago",
@@ -5676,7 +5676,7 @@
         "it": "fa",
         "pt": "atrás",
         "tr": "önce",
-        "uk": "ago"
+        "uk": "тому"
     },
     "STATUS$ERROR_LLM_AUTHENTICATION": {
         "en": "Error authenticating with the LLM provider. Please check your API key",
@@ -5692,7 +5692,7 @@
         "it": "Errore di autenticazione con il provider LLM. Controlla la tua chiave API",
         "pt": "Erro ao autenticar com o provedor LLM. Por favor, verifique sua chave API",
         "tr": "LLM sağlayıcısı ile kimlik doğrulama hatası. Lütfen API anahtarınızı kontrol edin",
-        "uk": "Error authenticating with the LLM provider. Please check your API key"
+        "uk": "Помилка автентифікації у постачальника LLM. Перевірте свій ключ API."
     },
     "STATUS$ERROR_LLM_SERVICE_UNAVAILABLE": {
         "en": "The LLM provider is currently unavailable. Please try again later.",
@@ -5708,7 +5708,7 @@
         "it": "Il provider LLM non è attualmente disponibile. Per favore, riprova più tardi.",
         "pt": "O provedor LLM não está atualmente disponível. Por favor, tente novamente mais tarde.",
         "tr": "LLM sağlayıcısı şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.",
-        "uk": "The LLM provider is currently unavailable. Please try again later."
+        "uk": "Постачальник LLM наразі недоступний. Будь ласка, спробуйте пізніше."
     },
     "STATUS$ERROR_LLM_INTERNAL_SERVER_ERROR": {
         "en": "The request failed with an internal server error.",
@@ -5724,7 +5724,7 @@
         "it": "Si è verificato un errore durante la connessione al runtime. Aggiorna la pagina.",
         "pt": "Ocorreu um erro ao conectar ao ambiente de execução. Por favor, atualize a página.",
         "tr": "Çalışma zamanına bağlanırken bir hata oluştu. Lütfen sayfayı yenileyin.",
-        "uk": "The request failed with an internal server error."
+        "uk": "Запит не вдалося виконати через внутрішню помилку сервера."
     },
     "STATUS$ERROR_LLM_OUT_OF_CREDITS": {
         "en": "You're out of OpenHands Credits",
@@ -5740,7 +5740,7 @@
         "fr": "Vous n'avez plus de crédits OpenHands",
         "tr": "OpenHands kredileriniz tükendi",
         "de": "Ihre OpenHands-Guthaben sind aufgebraucht",
-        "uk": "You're out of OpenHands Credits"
+        "uk": "У вас закінчилися кредити OpenHands"
     },
     "STATUS$ERROR_LLM_CONTENT_POLICY_VIOLATION": {
         "en": "Content policy violation. The output was blocked by content filtering policy.",
@@ -5756,7 +5756,7 @@
         "ar": "انتهاك سياسة المحتوى. تم حظر المخرجات بواسطة سياسة تصفية المحتوى.",
         "fr": "Violation de la politique de contenu. La sortie a été bloquée par la politique de filtrage de contenu.",
         "tr": "İçerik politikası ihlali. Çıktı, içerik filtreleme politikası tarafından engellendi.",
-        "uk": "Content policy violation. The output was blocked by content filtering policy."
+        "uk": "Порушення політики щодо вмісту. Вивід було заблоковано політикою фільтрації вмісту."
     },
     "STATUS$ERROR_RUNTIME_DISCONNECTED": {
         "en": "There was an error while connecting to the runtime. Please refresh the page.",
@@ -5772,7 +5772,7 @@
         "pt": "Ocorreu um erro ao conectar ao ambiente de execução. Por favor, atualize a página.",
         "es": "Hubo un error al conectar con el entorno de ejecución. Por favor, actualice la página.",
         "tr": "Çalışma zamanına bağlanırken bir hata oluştu. Lütfen sayfayı yenileyin.",
-        "uk": "There was an error while connecting to the runtime. Please refresh the page."
+        "uk": "Під час підключення до середовища виконання сталася помилка. Оновіть сторінку."
     },
     "STATUS$LLM_RETRY": {
         "en": "Retrying LLM request",
@@ -5788,7 +5788,7 @@
         "it": "Ritenta la richiesta LLM",
         "pt": "Reintentando a solicitação LLM",
         "tr": "LLM isteğini yeniden deniyor",
-        "uk": "Retrying LLM request"
+        "uk": "Повторна спроба запиту LLM"
     },
     "AGENT_ERROR$BAD_ACTION": {
         "en": "Agent tried to execute a malformed action.",
@@ -5804,7 +5804,7 @@
         "pt": "O agente tentou executar uma ação malformada",
         "es": "El agente intentó ejecutar una acción malformada",
         "tr": "Ajan hatalı bir eylem gerçekleştirmeye çalıştı",
-        "uk": "Agent tried to execute a malformed action."
+        "uk": "Агент спробував виконати невірну дію."
     },
     "AGENT_ERROR$ACTION_TIMEOUT": {
         "en": "Action timed out.",
@@ -5820,11 +5820,11 @@
         "pt": "Ação expirou",
         "es": "La acción expiró",
         "tr": "İşlem zaman aşımına uğradı",
-        "uk": "Action timed out."
+        "uk": "Час дії вичерпано."
     },
     "AGENT_ERROR$TOO_MANY_CONVERSATIONS": {
         "en": "Too many conversations at once.",
-        "uk": "Too many conversations at once."
+        "uk": "Занадто багато розмов одночасно."
     },
     "PROJECT_MENU_CARD_CONTEXT_MENU$CONNECT_TO_GITHUB_LABEL": {
         "en": "Connect to GitHub",
@@ -5840,7 +5840,7 @@
         "it": "Connetti a GitHub",
         "pt": "Conectar ao GitHub",
         "tr": "GitHub'a bağlan",
-        "uk": "Connect to GitHub"
+        "uk": "Підключитися до GitHub"
     },
     "PROJECT_MENU_CARD_CONTEXT_MENU$PUSH_TO_GITHUB_LABEL": {
         "en": "Push to GitHub",
@@ -5856,7 +5856,7 @@
         "it": "Invia a GitHub",
         "pt": "Enviar para GitHub",
         "tr": "GitHub'a gönder",
-        "uk": "Push to GitHub"
+        "uk": "Надіслати на GitHub"
     },
     "PROJECT_MENU_CARD_CONTEXT_MENU$DOWNLOAD_FILES_LABEL": {
         "en": "Download files",
@@ -5872,7 +5872,7 @@
         "it": "Scarica file",
         "pt": "Baixar arquivos",
         "tr": "Dosyaları indir",
-        "uk": "Download files"
+        "uk": "Завантаження файлів"
     },
     "PROJECT_MENU_CARD$OPEN": {
         "en": "Open project menu",
@@ -5888,7 +5888,7 @@
         "pt": "Abrir menu do projeto",
         "es": "Abrir menú del proyecto",
         "tr": "Proje menüsünü aç",
-        "uk": "Open project menu"
+        "uk": "Відкрити меню проекту"
     },
     "ACTION_BUTTON$RESUME": {
         "en": "Resume the agent task",
@@ -5904,7 +5904,7 @@
         "pt": "Retomar a tarefa do agente",
         "es": "Reanudar la tarea del agente",
         "tr": "Ajan görevine devam et",
-        "uk": "Resume the agent task"
+        "uk": "Відновити завдання агента"
     },
     "ACTION_BUTTON$PAUSE": {
         "en": "Pause the current task",
@@ -5920,7 +5920,7 @@
         "pt": "Pausar a tarefa atual",
         "es": "Pausar la tarea actual",
         "tr": "Mevcut görevi duraklat",
-        "uk": "Pause the current task"
+        "uk": "Призупинити поточне завдання"
     },
     "BROWSER$SCREENSHOT_ALT": {
         "en": "Browser Screenshot",
@@ -5937,7 +5937,7 @@
         "es": "Captura de pantalla del navegador",
         "tr": "Tarayıcı ekran görüntüsü",
         "fa": "تصویر صفحه مرورگر",
-        "uk": "Browser Screenshot"
+        "uk": "Знімок екрана браузера"
     },
     "ERROR_TOAST$CLOSE_BUTTON_LABEL": {
         "en": "Close",
@@ -5953,7 +5953,7 @@
         "pt": "Fechar",
         "es": "Cerrar",
         "tr": "Kapat",
-        "uk": "Close"
+        "uk": "Закрити"
     },
     "FILE_EXPLORER$UPLOAD": {
         "en": "Upload File",
@@ -5969,7 +5969,7 @@
         "pt": "Enviar arquivo",
         "es": "Subir archivo",
         "tr": "Dosya yükle",
-        "uk": "Upload File"
+        "uk": "Завантажити файл"
     },
     "ACTION_MESSAGE$RUN": {
         "en": "Running <cmd>{{action.payload.args.command}}</cmd>",
@@ -5985,7 +5985,7 @@
         "pt": "Executando <cmd>{{action.payload.args.command}}</cmd>",
         "es": "Ejecutando <cmd>{{action.payload.args.command}}</cmd>",
         "tr": "<cmd>{{action.payload.args.command}}</cmd> çalıştırılıyor",
-        "uk": "Running <cmd>{{action.payload.args.command}}</cmd>"
+        "uk": "Виконую <cmd>{{action.payload.args.command}}</cmd>"
     },
     "ACTION_MESSAGE$RUN_IPYTHON": {
         "en": "Running a Python command",
@@ -6001,7 +6001,7 @@
         "pt": "Executando um comando Python",
         "es": "Ejecutando un comando Python",
         "tr": "Python komutu çalıştırılıyor",
-        "uk": "Running a Python command"
+        "uk": "Виконання команди Python"
     },
     "ACTION_MESSAGE$CALL_TOOL_MCP": {
         "en": "Calling MCP Tool: {{action.payload.args.name}}",
@@ -6017,7 +6017,7 @@
         "pt": "Chamando ferramenta MCP: {{action.payload.args.name}}",
         "es": "Llamando a la herramienta MCP: {{action.payload.args.name}}",
         "tr": "MCP Aracı çağrılıyor: {{action.payload.args.name}}",
-        "uk": "Calling MCP Tool: {{action.payload.args.name}}"
+        "uk": "Викликаю інструмент MCP: {{action.payload.args.name}}"
     },
     "ACTION_MESSAGE$READ": {
         "en": "Reading <path>{{action.payload.args.path}}</path>",
@@ -6033,7 +6033,7 @@
         "pt": "Lendo <path>{{action.payload.args.path}}</path>",
         "es": "Leyendo <path>{{action.payload.args.path}}</path>",
         "tr": "<path>{{action.payload.args.path}}</path> okunuyor",
-        "uk": "Reading <path>{{action.payload.args.path}}</path>"
+        "uk": "Читаю <path>{{action.payload.args.path}}</path>"
     },
     "ACTION_MESSAGE$EDIT": {
         "en": "Editing <path>{{action.payload.args.path}}</path>",
@@ -6049,7 +6049,7 @@
         "pt": "Editando <path>{{action.payload.args.path}}</path>",
         "es": "Editando <path>{{action.payload.args.path}}</path>",
         "tr": "<path>{{action.payload.args.path}}</path> düzenleniyor",
-        "uk": "Editing <path>{{action.payload.args.path}}</path>"
+        "uk": "Редагую <path>{{action.payload.args.path}}</path>"
     },
     "ACTION_MESSAGE$WRITE": {
         "en": "Writing to <path>{{action.payload.args.path}}</path>",
@@ -6065,7 +6065,7 @@
         "pt": "Escrevendo em <path>{{action.payload.args.path}}</path>",
         "es": "Escribiendo en <path>{{action.payload.args.path}}</path>",
         "tr": "<path>{{action.payload.args.path}}</path> dosyasına yazılıyor",
-        "uk": "Writing to <path>{{action.payload.args.path}}</path>"
+        "uk": "Записую в <path>{{action.payload.args.path}}</path>"
     },
     "ACTION_MESSAGE$BROWSE": {
         "en": "Browsing the web",
@@ -6081,7 +6081,7 @@
         "pt": "Navegando na web",
         "es": "Navegando en la web",
         "tr": "Web'de geziniyor",
-        "uk": "Browsing the web"
+        "uk": "Перегляд веб-сторінок"
     },
     "ACTION_MESSAGE$BROWSE_INTERACTIVE": {
         "en": "Interactive browsing in progress...",
@@ -6097,7 +6097,7 @@
         "pt": "Navegação interativa em andamento...",
         "es": "Navegación interactiva en progreso...",
         "tr": "Etkileşimli tarama devam ediyor...",
-        "uk": "Interactive browsing in progress..."
+        "uk": "Триває інтерактивний перегляд..."
     },
     "ACTION_MESSAGE$THINK": {
         "en": "Thinking",
@@ -6113,7 +6113,7 @@
         "pt": "Pensando",
         "es": "Pensando",
         "tr": "Düşünüyor",
-        "uk": "Thinking"
+        "uk": "Розмірковую"
     },
     "ACTION_MESSAGE$SYSTEM": {
         "en": "System Message",
@@ -6129,7 +6129,7 @@
         "pt": "Mensagem do Sistema",
         "es": "Mensaje del Sistema",
         "tr": "Sistem Mesajı",
-        "uk": "System Message"
+        "uk": "Системне повідомлення"
     },
     "OBSERVATION_MESSAGE$RUN": {
         "en": "Ran <cmd>{{observation.payload.extras.command}}</cmd>",
@@ -6145,7 +6145,7 @@
         "pt": "Executou <cmd>{{observation.payload.extras.command}}</cmd>",
         "es": "Ejecutó <cmd>{{observation.payload.extras.command}}</cmd>",
         "tr": "<cmd>{{observation.payload.extras.command}}</cmd> çalıştırıldı",
-        "uk": "Ran <cmd>{{observation.payload.extras.command}}</cmd>"
+        "uk": "Запустив <cmd>{{observation.payload.extras.command}}</cmd>"
     },
     "OBSERVATION_MESSAGE$RUN_IPYTHON": {
         "en": "Ran a Python command",
@@ -6161,7 +6161,7 @@
         "pt": "Executou um comando Python",
         "es": "Ejecutó un comando Python",
         "tr": "Python komutu çalıştırıldı",
-        "uk": "Ran a Python command"
+        "uk": "Виконав команду Python"
     },
     "OBSERVATION_MESSAGE$READ": {
         "en": "Read <path>{{observation.payload.extras.path}}</path>",
@@ -6177,7 +6177,7 @@
         "pt": "Leu <path>{{observation.payload.extras.path}}</path>",
         "es": "Leyó <path>{{observation.payload.extras.path}}</path>",
         "tr": "<path>{{observation.payload.extras.path}}</path> okundu",
-        "uk": "Read <path>{{observation.payload.extras.path}}</path>"
+        "uk": "Прочитав <path>{{observation.payload.extras.path}}</path>"
     },
     "OBSERVATION_MESSAGE$EDIT": {
         "en": "Edited <path>{{observation.payload.extras.path}}</path>",
@@ -6193,7 +6193,7 @@
         "pt": "Editou <path>{{observation.payload.extras.path}}</path>",
         "es": "Editó <path>{{observation.payload.extras.path}}</path>",
         "tr": "<path>{{observation.payload.extras.path}}</path> düzenlendi",
-        "uk": "Edited <path>{{observation.payload.extras.path}}</path>"
+        "uk": "Відредагував <path>{{observation.payload.extras.path}}</path>"
     },
     "OBSERVATION_MESSAGE$WRITE": {
         "en": "Wrote to <path>{{observation.payload.extras.path}}</path>",
@@ -6209,7 +6209,7 @@
         "pt": "Escreveu em <path>{{observation.payload.extras.path}}</path>",
         "es": "Escribió en <path>{{observation.payload.extras.path}}</path>",
         "tr": "<path>{{observation.payload.extras.path}}</path> dosyasına yazıldı",
-        "uk": "Wrote to <path>{{observation.payload.extras.path}}</path>"
+        "uk": "Записав на <path>{{observation.payload.extras.path}}</path>"
     },
     "OBSERVATION_MESSAGE$BROWSE": {
         "en": "Browsing completed",
@@ -6225,7 +6225,7 @@
         "pt": "Navegação concluída",
         "es": "Navegación completada",
         "tr": "Gezinme tamamlandı",
-        "uk": "Browsing completed"
+        "uk": "Перегляд завершено"
     },
     "OBSERVATION_MESSAGE$MCP": {
         "en": "MCP Tool Result: {{action.payload.args.name}}",
@@ -6241,7 +6241,7 @@
         "pt": "Resultado da ferramenta MCP: {{action.payload.args.name}}",
         "es": "Resultado de la herramienta MCP: {{action.payload.args.name}}",
         "tr": "MCP Aracı Sonucu: {{action.payload.args.name}}",
-        "uk": "MCP Tool Result: {{action.payload.args.name}}"
+        "uk": "Результат інструменту MCP: {{action.payload.args.name}}"
     },
     "OBSERVATION_MESSAGE$RECALL": {
         "en": "Microagent Activated",
@@ -6257,7 +6257,7 @@
         "fr": "Microagent activé",
         "tr": "MikroAjan Etkinleştirildi",
         "de": "Microagent aktiviert",
-        "uk": "Microagent Activated"
+        "uk": "Мікроагент активований"
     },
     "EXPANDABLE_MESSAGE$SHOW_DETAILS": {
         "en": "Show details",
@@ -6273,7 +6273,7 @@
         "pt": "Mostrar detalhes",
         "es": "Mostrar detalles",
         "tr": "Detayları göster",
-        "uk": "Show details"
+        "uk": "Показати деталі"
     },
     "EXPANDABLE_MESSAGE$HIDE_DETAILS": {
         "en": "Hide details",
@@ -6289,7 +6289,7 @@
         "pt": "Ocultar detalhes",
         "es": "Ocultar detalles",
         "tr": "Detayları gizle",
-        "uk": "Hide details"
+        "uk": "Приховати деталі"
     },
     "AI_SETTINGS$TITLE": {
         "en": "AI Provider Configuration",
@@ -6305,7 +6305,7 @@
         "fr": "Configuration du fournisseur d'IA",
         "tr": "AI Sağlayıcı Yapılandırması",
         "de": "Einstellungen",
-        "uk": "AI Provider Configuration"
+        "uk": "Конфігурація постачальника ШІ"
     },
     "SETTINGS$DESCRIPTION": {
         "en": "To continue, connect an OpenAI, Anthropic, or other LLM account",
@@ -6321,7 +6321,7 @@
         "fr": "Pour continuer, connectez un compte OpenAI, Anthropic ou autre LLM",
         "tr": "Devam etmek için bir OpenAI, Anthropic veya başka bir LLM hesabı bağlayın",
         "de": "Konfigurieren Sie Ihre OpenHands-Umgebung",
-        "uk": "To continue, connect an OpenAI, Anthropic, or other LLM account"
+        "uk": "Щоб продовжити, підключіть обліковий запис OpenAI, Anthropic або інший LLM"
     },
     "SETTINGS$WARNING": {
         "en": "Changing settings during an active session will end the session",
@@ -6337,7 +6337,7 @@
         "fr": "La modification des paramètres pendant une session active mettra fin à la session",
         "tr": "Aktif bir oturum sırasında ayarları değiştirmek oturumu sonlandıracaktır",
         "de": "Einige Einstellungen können nicht geändert werden, während der Agent läuft",
-        "uk": "Changing settings during an active session will end the session"
+        "uk": "Зміна налаштувань під час активного сеансу призведе до його завершення."
     },
     "SIDEBAR$SETTINGS": {
         "en": "Settings",
@@ -6353,7 +6353,7 @@
         "fr": "Paramètres",
         "tr": "Ayarlar",
         "de": "Einstellungen",
-        "uk": "Settings"
+        "uk": "Налаштування"
     },
     "SIDEBAR$DOCS": {
         "en": "Documentation",
@@ -6369,7 +6369,7 @@
         "fr": "Documentation",
         "tr": "Belgeler",
         "de": "Dokumentation",
-        "uk": "Documentation"
+        "uk": "Документація"
     },
     "SUGGESTIONS$ADD_DOCS": {
         "en": "Add best practices docs for contributors",
@@ -6385,7 +6385,7 @@
         "fr": "Ajouter des documents sur les meilleures pratiques pour les contributeurs",
         "tr": "Katkıda bulunanlar için en iyi uygulama belgelerini ekle",
         "de": "Dokumentation hinzufügen",
-        "uk": "Add best practices docs for contributors"
+        "uk": "Додайте документи з найкращими практиками для учасників"
     },
     "SUGGESTIONS$ADD_DOCKERFILE": {
         "en": "Add/improve a Dockerfile",
@@ -6401,7 +6401,7 @@
         "fr": "Ajouter/améliorer un Dockerfile",
         "tr": "Dockerfile ekle/geliştir",
         "de": "Dockerfile hinzufügen",
-        "uk": "Add/improve a Dockerfile"
+        "uk": "Додати/покращити Dockerfile"
     },
     "STATUS$CONNECTED": {
         "en": "Connected",
@@ -6417,7 +6417,7 @@
         "ar": "متصل",
         "fr": "Connecté",
         "tr": "Bağlandı",
-        "uk": "Connected"
+        "uk": "Підключено"
     },
     "BROWSER$NO_PAGE_LOADED": {
         "en": "No page loaded.",
@@ -6433,7 +6433,7 @@
         "ar": "لم يتم تحميل أي صفحة.",
         "fr": "Aucune page chargée.",
         "tr": "Sayfa yüklenmedi.",
-        "uk": "No page loaded."
+        "uk": "Сторінка не завантажена."
     },
     "USER$AVATAR_PLACEHOLDER": {
         "en": "user avatar placeholder",
@@ -6449,7 +6449,7 @@
         "ar": "عنصر نائب لصورة المستخدم",
         "no": "plassholder for brukeravatar",
         "tr": "Kullanıcı avatarı yer tutucusu",
-        "uk": "user avatar placeholder"
+        "uk": "заповнювач аватара користувача"
     },
     "ACCOUNT_SETTINGS$SETTINGS": {
         "en": "Account Settings",
@@ -6465,7 +6465,7 @@
         "fr": "Paramètres du compte",
         "tr": "Hesap ayarları",
         "de": "Kontoeinstellungen",
-        "uk": "Account Settings"
+        "uk": "Налаштування облікового запису"
     },
     "ACCOUNT_SETTINGS$LOGOUT": {
         "en": "Logout",
@@ -6481,7 +6481,7 @@
         "fr": "Déconnexion",
         "tr": "Çıkış yap",
         "de": "Abmelden",
-        "uk": "Logout"
+        "uk": "Вийти"
     },
     "SETTINGS_FORM$ADVANCED_OPTIONS_LABEL": {
         "en": "Advanced Options",
@@ -6497,7 +6497,7 @@
         "it": "Opzioni avanzate",
         "pt": "Opções avançadas",
         "tr": "Gelişmiş seçenekler",
-        "uk": "Advanced Options"
+        "uk": "Розширені параметри"
     },
     "CONVERSATION$NO_CONVERSATIONS": {
         "en": "No conversations found",
@@ -6513,7 +6513,7 @@
         "ar": "لم يتم العثور على محادثات",
         "no": "Ingen samtaler funnet",
         "tr": "Konuşma yok",
-        "uk": "No conversations found"
+        "uk": "Розмов не знайдено"
     },
     "LANDING$SELECT_GIT_REPO": {
         "en": "Select a Git project",
@@ -6529,7 +6529,7 @@
         "ar": "اختر مشروع Git",
         "no": "Velg et Git-prosjekt",
         "tr": "Depo seç",
-        "uk": "Select a Git project"
+        "uk": "Виберіть Git-проект"
     },
     "BUTTON$SEND": {
         "en": "Send",
@@ -6545,7 +6545,7 @@
         "ar": "إرسال",
         "no": "Send",
         "tr": "Gönder",
-        "uk": "Send"
+        "uk": "Надіслати"
     },
     "STATUS$WAITING_FOR_CLIENT": {
         "en": "Waiting for client to become ready...",
@@ -6561,7 +6561,7 @@
         "fr": "En attente que le client soit prêt...",
         "tr": "İstemcinin hazır olması bekleniyor...",
         "ja": "クライアントの準備を待機中",
-        "uk": "Waiting for client to become ready..."
+        "uk": "Чекаємо на готовність клієнта..."
     },
     "SUGGESTIONS$WHAT_TO_BUILD": {
         "en": "What do you want to build?",
@@ -6577,12 +6577,12 @@
         "fr": "Que voulez-vous construire ?",
         "tr": "Ne inşa etmek istiyorsun?",
         "de": "Was möchten Sie erstellen?",
-        "uk": "What do you want to build?"
+        "uk": "Що ви хочете побудувати?"
     },
     "SETTINGS_FORM$ENABLE_DEFAULT_CONDENSER_SWITCH_LABEL": {
         "en": "Enable Memory Condenser",
         "zh-TW": "啟用記憶體壓縮器",
-        "uk": "Enable Memory Condenser"
+        "uk": "Увімкнути конденсатор пам'яті"
     },
     "BUTTON$MARK_HELPFUL": {
         "en": "Mark this solution as helpful",
@@ -6598,7 +6598,7 @@
         "fr": "Marquer cette solution comme utile",
         "tr": "Bu çözümü yararlı olarak işaretle",
         "ja": "このソリューションが役立つと評価",
-        "uk": "Mark this solution as helpful"
+        "uk": "Позначити це рішення як корисне"
     },
     "BUTTON$MARK_NOT_HELPFUL": {
         "en": "Mark this solution as not helpful",
@@ -6614,7 +6614,7 @@
         "fr": "Marquer cette solution comme non utile",
         "tr": "Bu çözümü yararlı değil olarak işaretle",
         "ja": "このソリューションが役立たないと評価",
-        "uk": "Mark this solution as not helpful"
+        "uk": "Позначити це рішення як некорисне"
     },
     "BUTTON$EXPORT_CONVERSATION": {
         "en": "Export conversation",
@@ -6630,7 +6630,7 @@
         "fr": "Exporter la conversation",
         "tr": "Konuşmayı dışa aktar",
         "ja": "会話をエクスポート",
-        "uk": "Export conversation"
+        "uk": "Експорт розмови"
     },
     "BILLING$CLICK_TO_TOP_UP": {
         "en": "Add funds to Your Account",
@@ -6646,7 +6646,7 @@
         "fr": "Ajouter des fonds à votre compte",
         "tr": "Hesabınıza bakiye ekleyin",
         "de": "Guthaben zu Ihrem Konto hinzufügen",
-        "uk": "Add funds to Your Account"
+        "uk": "Додайте кошти до свого облікового запису"
     },
     "BILLING$YOUVE_GOT_50": {
         "en": "You've got $50 in free OpenHands credits",
@@ -6662,7 +6662,7 @@
         "fr": "Vous avez reçu $50 de crédits OpenHands gratuits",
         "tr": "OpenHands'de $50 ücretsiz kredi kazandınız",
         "de": "Sie haben $50 in kostenlosen OpenHands-Guthaben erhalten",
-        "uk": "You've got $50 in free OpenHands credits"
+        "uk": "Ви отримали 50 доларів у безкоштовних кредитах OpenHands"
     },
     "BILLING$ERROR_WHILE_CREATING_SESSION": {
         "en": "Error occurred while setting up your payment session. Please try again later.",
@@ -6678,7 +6678,7 @@
         "fr": "Une erreur s'est produite lors de la configuration de votre session de paiement. Veuillez réessayer plus tard.",
         "tr": "Ödeme oturumunuz kurulurken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
         "de": "Beim Einrichten Ihrer Zahlungssitzung ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
-        "uk": "Error occurred while setting up your payment session. Please try again later."
+        "uk": "Під час налаштування сеансу оплати сталася помилка. Будь ласка, спробуйте пізніше."
     },
     "BILLING$CLAIM_YOUR_50": {
         "en": "Add a credit card with Stripe to claim your $50. <b>We won't charge you without asking first!</b>",
@@ -6694,7 +6694,7 @@
         "fr": "Ajoutez une carte de crédit avec Stripe pour obtenir 50$. <b>Nous ne vous facturerons pas sans vous demander d'abord !</b>",
         "tr": "50$ almak için Stripe ile kredi kartı ekleyin. <b>Önce sormadan ücret almayacağız!</b>",
         "de": "Fügen Sie eine Kreditkarte mit Stripe hinzu, um $50 zu erhalten. <b>Wir belasten Sie nicht ohne vorherige Zustimmung!</b>",
-        "uk": "Add a credit card with Stripe to claim your $50. <b>We won't charge you without asking first!</b>"
+        "uk": "Додайте кредитну картку до Stripe, щоб отримати свої 50 доларів. <b>Ми не стягуватимемо з вас плату без попереднього запиту!</b>"
     },
     "BILLING$PROCEED_TO_STRIPE": {
         "en": "Add Billing Info",
@@ -6710,7 +6710,7 @@
         "fr": "Ajouter les informations de facturation",
         "tr": "Fatura Bilgisi Ekle",
         "de": "Zahlungsinformationen hinzufügen",
-        "uk": "Add Billing Info"
+        "uk": "Додати платіжну інформацію"
     },
     "BILLING$YOURE_IN": {
         "en": "You're in! You can start using your $50 in free credits now.",
@@ -6726,7 +6726,7 @@
         "fr": "C'est fait ! Vous pouvez commencer à utiliser vos 50 $ de crédits gratuits maintenant.",
         "tr": "Başardın! Şimdi $50 değerindeki ücretsiz kredilerini kullanmaya başlayabilirsin.",
         "de": "Du bist dabei! Du kannst jetzt deine $50 an kostenlosen Guthaben nutzen.",
-        "uk": "You're in! You can start using your $50 in free credits now."
+        "uk": "Готово! Ви можете почати використовувати свої безкоштовні кредити на суму 50 доларів США вже зараз."
     },
     "PAYMENT$ADD_FUNDS": {
         "en": "Add Funds",
@@ -6742,7 +6742,7 @@
         "fr": "Ajouter des fonds",
         "tr": "Bakiye Ekle",
         "de": "Guthaben hinzufügen",
-        "uk": "Add Funds"
+        "uk": "Додати кошти"
     },
     "PAYMENT$ADD_CREDIT": {
         "en": "Add credit",
@@ -6758,7 +6758,7 @@
         "fr": "Ajouter du crédit",
         "tr": "Kredi ekle",
         "de": "Guthaben hinzufügen",
-        "uk": "Add credit"
+        "uk": "Додати кредит"
     },
     "PAYMENT$MANAGE_CREDITS": {
         "en": "Manage Credits",
@@ -6774,7 +6774,7 @@
         "fr": "Gérer les crédits",
         "tr": "Kredileri yönet",
         "de": "Guthaben verwalten",
-        "uk": "Manage Credits"
+        "uk": "Керування кредитами"
     },
     "AUTH$SIGN_IN_WITH_GITHUB": {
         "en": "Sign in with GitHub",
@@ -6790,7 +6790,7 @@
         "fr": "Se connecter avec GitHub",
         "tr": "GitHub ile giriş yap",
         "de": "Mit GitHub anmelden",
-        "uk": "Sign in with GitHub"
+        "uk": "Увійти за допомогою GitHub"
     },
     "WAITLIST$JOIN": {
         "en": "Join the waitlist",
@@ -6806,7 +6806,7 @@
         "fr": "Rejoindre la liste d'attente",
         "tr": "Bekleme listesine katıl",
         "de": "Der Warteliste beitreten",
-        "uk": "Join the waitlist"
+        "uk": "Приєднатися до списку очікування"
     },
     "WAITLIST$IF_NOT_JOINED": {
         "en": "If you haven't already joined the waitlist, please do so to get access.",
@@ -6822,7 +6822,7 @@
         "fr": "Si vous n'avez pas encore rejoint la liste d'attente, veuillez le faire pour obtenir l'accès.",
         "tr": "Henüz bekleme listesine katılmadıysanız, erişim elde etmek için lütfen katılın.",
         "de": "Wenn Sie der Warteliste noch nicht beigetreten sind, tun Sie dies bitte, um Zugang zu erhalten.",
-        "uk": "If you haven't already joined the waitlist, please do so to get access."
+        "uk": "Якщо ви ще не записалися до списку очікування, будь ласка, зробіть це, щоб отримати доступ."
     },
     "WAITLIST$PATIENCE_MESSAGE": {
         "en": "Thank you for your patience. We're working hard to give you access as soon as possible.",
@@ -6838,7 +6838,7 @@
         "fr": "Merci pour votre patience. Nous travaillons dur pour vous donner accès dès que possible.",
         "tr": "Sabrınız için teşekkür ederiz. Size mümkün olan en kısa sürede erişim sağlamak için çok çalışıyoruz.",
         "de": "Vielen Dank für Ihre Geduld. Wir arbeiten hart daran, Ihnen so schnell wie möglich Zugang zu gewähren.",
-        "uk": "Thank you for your patience. We're working hard to give you access as soon as possible."
+        "uk": "Дякуємо за ваше терпіння. Ми наполегливо працюємо, щоб надати вам доступ якомога швидше."
     },
     "WAITLIST$ALMOST_THERE": {
         "en": "Almost there!",
@@ -6854,7 +6854,7 @@
         "fr": "Presque là !",
         "tr": "Neredeyse tamam!",
         "de": "Fast geschafft!",
-        "uk": "Almost there!"
+        "uk": "Майже готово!"
     },
     "PAYMENT$SUCCESS": {
         "en": "Payment successful",
@@ -6870,7 +6870,7 @@
         "fr": "Paiement réussi",
         "tr": "Ödeme başarılı",
         "de": "Zahlung erfolgreich",
-        "uk": "Payment successful"
+        "uk": "Оплата успішна"
     },
     "PAYMENT$CANCELLED": {
         "en": "Payment cancelled",
@@ -6886,7 +6886,7 @@
         "fr": "Paiement annulé",
         "tr": "Ödeme iptal edildi",
         "de": "Zahlung abgebrochen",
-        "uk": "Payment cancelled"
+        "uk": "Платіж скасовано"
     },
     "SERVED_APP$TITLE": {
         "en": "Served Application",
@@ -6902,7 +6902,7 @@
         "fr": "Application servie",
         "tr": "Sunulan Uygulama",
         "de": "Bereitgestellte Anwendung",
-        "uk": "Served Application"
+        "uk": "Оброблений додаток"
     },
     "CONVERSATION$UNKNOWN": {
         "en": "unknown",
@@ -6918,7 +6918,7 @@
         "ar": "غير معروف",
         "fr": "inconnu",
         "tr": "bilinmeyen",
-        "uk": "unknown"
+        "uk": "невідомий"
     },
     "SETTINGS$RUNTIME_OPTION_1X": {
         "en": "1x (2 core, 8G)",
@@ -6934,7 +6934,7 @@
         "ar": "1x (2 نواة, 8G)",
         "fr": "1x (2 cœur, 8G)",
         "tr": "1x (2 çekirdek, 8G)",
-        "uk": "1x (2 core, 8G)"
+        "uk": "1x (2 ядра, 8G)"
     },
     "SETTINGS$RUNTIME_OPTION_2X": {
         "en": "2x (4 core, 16G)",
@@ -6950,7 +6950,7 @@
         "ar": "2x (4 نواة, 16G)",
         "fr": "2x (4 cœur, 16G)",
         "tr": "2x (4 çekirdek, 16G)",
-        "uk": "2x (4 core, 16G)"
+        "uk": "2x (4 ядра, 16G)"
     },
     "SETTINGS$GET_IN_TOUCH": {
         "en": "get in touch for access",
@@ -6966,7 +6966,7 @@
         "ar": "تواصل معنا للوصول",
         "fr": "contactez-nous pour l'accès",
         "tr": "erişim için iletişime geçin",
-        "uk": "get in touch for access"
+        "uk": "зв'яжіться з нами для отримання доступу"
     },
     "CONVERSATION$NO_METRICS": {
         "en": "No metrics data available",
@@ -6982,7 +6982,7 @@
         "ar": "لا توجد بيانات قياس متاحة",
         "fr": "Aucune donnée métrique disponible",
         "tr": "Kullanılabilir metrik verisi yok",
-        "uk": "No metrics data available"
+        "uk": "Немає даних про показники"
     },
     "CONVERSATION$DOWNLOAD_ERROR": {
         "en": "ConversationId unknown, cannot download trajectory",
@@ -6998,7 +6998,7 @@
         "ar": "معرف المحادثة غير معروف، لا يمكن تنزيل المسار",
         "fr": "ID de conversation inconnu, impossible de télécharger la trajectoire",
         "tr": "Konuşma kimliği bilinmiyor, yörünge indirilemiyor",
-        "uk": "ConversationId unknown, cannot download trajectory"
+        "uk": "Ідентифікатор розмови невідомий, неможливо завантажити траєкторію"
     },
     "CONVERSATION$UPDATED": {
         "en": ", updated",
@@ -7014,7 +7014,7 @@
         "ar": "، تم التحديث",
         "fr": ", mis à jour",
         "tr": ", güncellendi",
-        "uk": ", updated"
+        "uk": ", оновлено"
     },
     "CONVERSATION$TOTAL_COST": {
         "en": "Total Cost: $",
@@ -7030,7 +7030,7 @@
         "ar": "التكلفة الإجمالية: $",
         "fr": "Coût total : $",
         "tr": "Toplam Maliyet: $",
-        "uk": "Total Cost: $"
+        "uk": "Загальна вартість: $"
     },
     "CONVERSATION$TOKENS_USED": {
         "en": "Tokens Used:",
@@ -7046,7 +7046,7 @@
         "ar": "الرموز المستخدمة:",
         "fr": "Jetons utilisés :",
         "tr": "Kullanılan Tokenler:",
-        "uk": "Tokens Used:"
+        "uk": "Використані токени:"
     },
     "CONVERSATION$INPUT": {
         "en": "- Input:",
@@ -7062,7 +7062,7 @@
         "ar": "- المدخلات:",
         "fr": "- Entrée :",
         "tr": "- Giriş:",
-        "uk": "- Input:"
+        "uk": "- Вхідні дані:"
     },
     "CONVERSATION$OUTPUT": {
         "en": "- Output:",
@@ -7078,7 +7078,7 @@
         "ar": "- المخرجات:",
         "fr": "- Sortie :",
         "tr": "- Çıkış:",
-        "uk": "- Output:"
+        "uk": "- Результат:"
     },
     "CONVERSATION$TOTAL": {
         "en": "- Total:",
@@ -7094,7 +7094,7 @@
         "ar": "- المجموع:",
         "fr": "- Total :",
         "tr": "- Toplam:",
-        "uk": "- Total:"
+        "uk": "- Всього:"
     },
     "SETTINGS$RUNTIME_SETTINGS": {
         "en": "Runtime Settings (",
@@ -7110,7 +7110,7 @@
         "ar": "إعدادات وقت التشغيل (",
         "fr": "Paramètres d'exécution (",
         "tr": "Çalışma Zamanı Ayarları (",
-        "uk": "Runtime Settings ("
+        "uk": "Налаштування середовища виконання ("
     },
     "SETTINGS$RESET_CONFIRMATION": {
         "en": "Are you sure you want to reset all settings?",
@@ -7126,7 +7126,7 @@
         "ar": "هل أنت متأكد أنك تريد إعادة تعيين جميع الإعدادات؟",
         "fr": "Êtes-vous sûr de vouloir réinitialiser tous les paramètres ?",
         "tr": "Tüm ayarları sıfırlamak istediğinizden emin misiniz?",
-        "uk": "Are you sure you want to reset all settings?"
+        "uk": "Ви впевнені, що хочете скинути всі налаштування?"
     },
     "ERROR$GENERIC_OOPS": {
         "en": "Oops! An error occurred!",
@@ -7142,7 +7142,7 @@
         "ar": "عفوا! حدث خطأ!",
         "fr": "Oups ! Une erreur s'est produite !",
         "tr": "Hay aksi! Bir hata oluştu!",
-        "uk": "Oops! An error occurred!"
+        "uk": "Ой! Сталася помилка!"
     },
     "ERROR$UNKNOWN": {
         "en": "Uh oh, an unknown error occurred!",
@@ -7158,7 +7158,7 @@
         "ar": "أوه، حدث خطأ غير معروف!",
         "fr": "Oh non, une erreur inconnue s'est produite !",
         "tr": "Hay aksi, bilinmeyen bir hata oluştu!",
-        "uk": "Uh oh, an unknown error occurred!"
+        "uk": "Ой, сталася невідома помилка!"
     },
     "SETTINGS$FOR_OTHER_OPTIONS": {
         "en": "For other options,",
@@ -7174,7 +7174,7 @@
         "ar": "للخيارات الأخرى،",
         "fr": "Pour d'autres options,",
         "tr": "Diğer seçenekler için,",
-        "uk": "For other options,"
+        "uk": "Щодо інших варіантів,"
     },
     "SETTINGS$SEE_ADVANCED_SETTINGS": {
         "en": "see advanced settings",
@@ -7190,7 +7190,7 @@
         "ar": "انظر الإعدادات المتقدمة",
         "fr": "voir les paramètres avancés",
         "tr": "gelişmiş ayarlara bakın",
-        "uk": "see advanced settings"
+        "uk": "перегляньте розширені налаштування"
     },
     "SETTINGS_FORM$API_KEY": {
         "en": "API Key",
@@ -7206,7 +7206,7 @@
         "ar": "مفتاح API",
         "fr": "Clé API",
         "tr": "API Anahtarı",
-        "uk": "API Key"
+        "uk": "API ключ"
     },
     "SETTINGS_FORM$BASE_URL": {
         "en": "Base URL",
@@ -7222,7 +7222,7 @@
         "ar": "عنوان URL الأساسي",
         "fr": "URL de base",
         "tr": "Temel URL",
-        "uk": "Base URL"
+        "uk": "Базовий URL"
     },
     "GITHUB$CONNECT_TO_GITHUB": {
         "en": "Log in with GitHub",
@@ -7238,7 +7238,7 @@
         "ar": "الاتصال بـ GitHub",
         "fr": "Se connecter à GitHub",
         "tr": "GitHub'a bağlan",
-        "uk": "Log in with GitHub"
+        "uk": "Увійти за допомогою GitHub"
     },
     "GITLAB$CONNECT_TO_GITLAB": {
         "en": "Log in with GitLab",
@@ -7254,7 +7254,7 @@
         "ar": "الاتصال بـ GitLab",
         "fr": "Se connecter à GitLab",
         "tr": "GitLab'a bağlan",
-        "uk": "Log in with GitLab"
+        "uk": "Увійти за допомогою GitLab"
     },
     "AUTH$SIGN_IN_WITH_IDENTITY_PROVIDER": {
         "en": "Log in to OpenHands",
@@ -7270,7 +7270,7 @@
         "fr": "Connectez-vous avec votre fournisseur d'identité",
         "tr": "Kimlik sağlayıcınızla giriş yapın",
         "de": "Melden Sie sich mit Ihrem Identitätsanbieter an",
-        "uk": "Log in to OpenHands"
+        "uk": "Увійти до OpenHands"
     },
     "WAITLIST$JOIN_WAITLIST": {
         "en": "Join Waitlist",
@@ -7286,7 +7286,7 @@
         "ar": "الانضمام إلى قائمة الانتظار",
         "fr": "Rejoindre la liste d'attente",
         "tr": "Bekleme listesine katıl",
-        "uk": "Join Waitlist"
+        "uk": "Приєднатися до списку очікування"
     },
     "ACCOUNT_SETTINGS$ADDITIONAL_SETTINGS": {
         "en": "Additional Settings",
@@ -7302,7 +7302,7 @@
         "ar": "إعدادات إضافية",
         "fr": "Paramètres supplémentaires",
         "tr": "Ek Ayarlar",
-        "uk": "Additional Settings"
+        "uk": "Додаткові налаштування"
     },
     "ACCOUNT_SETTINGS$DISCONNECT_FROM_GITHUB": {
         "en": "Disconnect from GitHub",
@@ -7318,7 +7318,7 @@
         "ar": "قطع الاتصال من GitHub",
         "fr": "Se déconnecter de GitHub",
         "tr": "GitHub'dan bağlantıyı kes",
-        "uk": "Disconnect from GitHub"
+        "uk": "Відключитися від GitHub"
     },
     "CONVERSATION$DELETE_WARNING": {
         "en": "Are you sure you want to delete this conversation? This action cannot be undone.",
@@ -7334,7 +7334,7 @@
         "fr": "Êtes-vous sûr de vouloir supprimer cette conversation ? Cette action ne peut pas être annulée.",
         "tr": "Bu konuşmayı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
         "de": "Sind Sie sicher, dass Sie dieses Gespräch löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
-        "uk": "Are you sure you want to delete this conversation? This action cannot be undone."
+        "uk": "Ви впевнені, що хочете видалити цю розмову? Цю дію не можна скасувати."
     },
     "FEEDBACK$TITLE": {
         "en": "Feedback",
@@ -7350,7 +7350,7 @@
         "fr": "Retour d'information",
         "tr": "Geri bildirim",
         "de": "Feedback",
-        "uk": "Feedback"
+        "uk": "Зворотній зв'язок"
     },
     "FEEDBACK$DESCRIPTION": {
         "en": "We value your feedback. Please share your thoughts with us.",
@@ -7366,7 +7366,7 @@
         "fr": "Nous apprécions vos commentaires. Veuillez partager vos réflexions avec nous.",
         "tr": "Geri bildiriminizi değerlendiriyoruz. Lütfen düşüncelerinizi bizimle paylaşın.",
         "de": "Wir schätzen Ihr Feedback. Bitte teilen Sie uns Ihre Gedanken mit.",
-        "uk": "We value your feedback. Please share your thoughts with us."
+        "uk": "Ми цінуємо ваш відгук. Будь ласка, поділіться з нами своїми думками."
     },
     "EXIT_PROJECT$WARNING": {
         "en": "Are you sure you want to exit this project? Any unsaved changes will be lost.",
@@ -7382,7 +7382,7 @@
         "fr": "Êtes-vous sûr de vouloir quitter ce projet ? Toutes les modifications non enregistrées seront perdues.",
         "tr": "Bu projeden çıkmak istediğinizden emin misiniz? Kaydedilmemiş değişiklikler kaybolacaktır.",
         "de": "Sind Sie sicher, dass Sie dieses Projekt beenden möchten? Alle nicht gespeicherten Änderungen gehen verloren.",
-        "uk": "Are you sure you want to exit this project? Any unsaved changes will be lost."
+        "uk": "Ви впевнені, що хочете вийти з цього проєкту? Усі незбережені зміни буде втрачено."
     },
     "MODEL_SELECTOR$VERIFIED": {
         "en": "Verified Models",
@@ -7398,7 +7398,7 @@
         "fr": "Modèles vérifiés",
         "tr": "Doğrulanmış Modeller",
         "de": "Verifizierte Modelle",
-        "uk": "Verified Models"
+        "uk": "Перевірені моделі"
     },
     "MODEL_SELECTOR$OTHERS": {
         "en": "Other Models",
@@ -7414,7 +7414,7 @@
         "fr": "Autres modèles",
         "tr": "Diğer Modeller",
         "de": "Andere Modelle",
-        "uk": "Other Models"
+        "uk": "Інші моделі"
     },
     "GITLAB$TOKEN_LABEL": {
         "en": "GitLab Token",
@@ -7430,7 +7430,7 @@
         "fr": "Jeton GitLab",
         "tr": "GitLab Jetonu",
         "de": "GitLab-Token",
-        "uk": "GitLab Token"
+        "uk": "GitLab токен"
     },
     "GITLAB$GET_TOKEN": {
         "en": "Generate a token on",
@@ -7446,7 +7446,7 @@
         "fr": "Générer un jeton sur",
         "tr": "Üzerinde bir jeton oluştur",
         "de": "Token generieren auf",
-        "uk": "Generate a token on"
+        "uk": "Згенерувати токен на"
     },
     "GITLAB$TOKEN_HELP_TEXT": {
         "en": "Get your <0>GitLab token</0> or <1>click here for instructions</1>",
@@ -7478,7 +7478,7 @@
         "fr": "jeton GitLab",
         "tr": "GitLab jetonu",
         "de": "GitLab-Token",
-        "uk": "GitLab token"
+        "uk": "GitLab токен"
     },
     "GITLAB$INSTRUCTIONS_LINK_TEXT": {
         "en": "click here for instructions",
@@ -7494,7 +7494,7 @@
         "fr": "cliquez ici pour les instructions",
         "tr": "talimatlar için buraya tıklayın",
         "de": "klicken Sie hier für Anweisungen",
-        "uk": "click here for instructions"
+        "uk": "натисніть тут, щоб отримати інструкції"
     },
     "GITLAB$OR_SEE": {
         "en": "or see the",
@@ -7510,7 +7510,7 @@
         "fr": "ou voir la",
         "tr": "veya bak",
         "de": "oder siehe",
-        "uk": "or see the"
+        "uk": "або перегляньте"
     },
     "COMMON$DOCUMENTATION": {
         "en": "documentation",
@@ -7526,7 +7526,7 @@
         "fr": "documentation",
         "tr": "belgelendirme",
         "de": "Dokumentation",
-        "uk": "documentation"
+        "uk": "документація"
     },
     "AGENT_ERROR$ERROR_ACTION_NOT_EXECUTED": {
         "en": "The action has not been executed. This may have occurred because the user pressed the stop button, or because the runtime system crashed and restarted due to resource constraints. Any previously established system state, dependencies, or environment variables may have been lost.",
@@ -7542,7 +7542,7 @@
         "fr": "L'action n'a pas été exécutée. Cela peut s'être produit parce que l'utilisateur a appuyé sur le bouton d'arrêt, ou parce que le système d'exécution s'est planté et a redémarré en raison de contraintes de ressources. Tout état du système, dépendances ou variables d'environnement précédemment établis peuvent avoir été perdus.",
         "tr": "Eylem yürütülmedi. Bu, kullanıcının durdurma düğmesine basması veya çalışma zamanı sisteminin kaynak kısıtlamaları nedeniyle çökmesi ve yeniden başlaması nedeniyle olmuş olabilir. Daha önce kurulmuş olan herhangi bir sistem durumu, bağımlılıklar veya ortam değişkenleri kaybolmuş olabilir.",
         "de": "Die Aktion wurde nicht ausgeführt. Dies kann passiert sein, weil der Benutzer die Stopp-Taste gedrückt hat oder weil das Laufzeitsystem aufgrund von Ressourcenbeschränkungen abgestürzt und neu gestartet wurde. Alle zuvor eingerichteten Systemzustände, Abhängigkeiten oder Umgebungsvariablen sind möglicherweise verloren gegangen.",
-        "uk": "The action has not been executed. This may have occurred because the user pressed the stop button, or because the runtime system crashed and restarted due to resource constraints. Any previously established system state, dependencies, or environment variables may have been lost."
+        "uk": "Дію не виконано. Можливо, це сталося через натискання користувачем кнопки зупинки або через збій та перезапуск системи виконання через обмеження ресурсів. Можливо, було втрачено будь-який раніше встановлений стан системи, залежності або змінні середовища."
     },
     "DIFF_VIEWER$LOADING": {
         "en": "Loading...",
@@ -7558,7 +7558,7 @@
         "fr": "Chargement...",
         "tr": "Yükleniyor...",
         "de": "Wird geladen...",
-        "uk": "Loading..."
+        "uk": "Завантаження..."
     },
     "DIFF_VIEWER$GETTING_LATEST_CHANGES": {
         "en": "Getting latest changes...",
@@ -7574,7 +7574,7 @@
         "fr": "Obtention des dernières modifications...",
         "tr": "Son değişiklikleri alıyor...",
         "de": "Aktuellste Änderungen abrufen...",
-        "uk": "Getting latest changes..."
+        "uk": "Отримання останніх змін..."
     },
     "DIFF_VIEWER$NOT_A_GIT_REPO": {
         "en": "Your current workspace is not a git repository.",
@@ -7590,7 +7590,7 @@
         "fr": "Votre espace de travail actuel n'est pas un dépôt git.",
         "tr": "Mevcut çalışma alanınız bir git deposu değil.",
         "de": "Ihr aktueller Arbeitsbereich ist kein git-Repository.",
-        "uk": "Your current workspace is not a git repository."
+        "uk": "Ваша поточна робоча область не є репозиторієм git."
     },
     "DIFF_VIEWER$ASK_OH": {
         "en": "Ask OpenHands to initialize a git repo to activate this UI.",
@@ -7606,7 +7606,7 @@
         "fr": "Demandez à OpenHands d'initialiser un dépôt git pour activer cette interface utilisateur.",
         "tr": "Bu UI'yi etkinleştirmek için OpenHands'tan bir git deposunu başlatmasını isteyin.",
         "de": "Bitten Sie OpenHands, ein git-Repository zu initialisieren, um diese Benutzeroberfläche zu aktivieren.",
-        "uk": "Ask OpenHands to initialize a git repo to activate this UI."
+        "uk": "Попросіть OpenHands ініціалізувати git-репозиторій, щоб активувати цей інтерфейс користувача."
     },
     "DIFF_VIEWER$NO_CHANGES": {
         "en": "OpenHands hasn't made any changes yet...",
@@ -7622,7 +7622,7 @@
         "fr": "OpenHands n'a pas encore apporté de modifications ...",
         "tr": "OpenHands henüz herhangi bir değişiklik yapmadı ...",
         "de": "OpenHands hat noch keine Änderungen vorgenommen...",
-        "uk": "OpenHands hasn't made any changes yet..."
+        "uk": "OpenHands ще не вніс жодних змін..."
     },
     "DIFF_VIEWER$WAITING_FOR_RUNTIME": {
         "en": "Waiting for runtime to start...",
@@ -7638,7 +7638,7 @@
         "fr": "En attente du démarrage de l'exécution...",
         "tr": "Çalışma zamanının başlamasını bekliyor...",
         "de": "Warten auf den Start der Laufzeit...",
-        "uk": "Waiting for runtime to start..."
+        "uk": "Очікування початку виконання..."
     },
     "SYSTEM_MESSAGE_MODAL$TITLE": {
         "en": "Agent Tools & Metadata",
@@ -7654,7 +7654,7 @@
         "pt": "Ferramentas e metadados do agente",
         "es": "Herramientas y metadatos del agente",
         "tr": "Ajan Araçları ve Meta Verileri",
-        "uk": "Agent Tools & Metadata"
+        "uk": "Інструменти та метадані агента"
     },
     "SYSTEM_MESSAGE_MODAL$AGENT_CLASS": {
         "en": "Agent Class:",
@@ -7670,7 +7670,7 @@
         "pt": "Classe do agente:",
         "es": "Clase de agente:",
         "tr": "Ajan Sınıfı:",
-        "uk": "Agent Class:"
+        "uk": "Клас агента:"
     },
     "SYSTEM_MESSAGE_MODAL$OPENHANDS_VERSION": {
         "en": "OpenHands Version:",
@@ -7686,7 +7686,7 @@
         "pt": "Versão OpenHands:",
         "es": "Versión de OpenHands:",
         "tr": "OpenHands Sürümü:",
-        "uk": "OpenHands Version:"
+        "uk": "OpenHands версія:"
     },
     "SYSTEM_MESSAGE_MODAL$SYSTEM_MESSAGE_TAB": {
         "en": "System Message",
@@ -7702,7 +7702,7 @@
         "pt": "Mensagem do sistema",
         "es": "Mensaje del sistema",
         "tr": "Sistem Mesajı",
-        "uk": "System Message"
+        "uk": "Системне повідомлення"
     },
     "SYSTEM_MESSAGE_MODAL$TOOLS_TAB": {
         "en": "Available Tools",
@@ -7718,7 +7718,7 @@
         "pt": "Ferramentas disponíveis",
         "es": "Herramientas disponibles",
         "tr": "Kullanılabilir Araçlar",
-        "uk": "Available Tools"
+        "uk": "Доступні інструменти"
     },
     "SYSTEM_MESSAGE_MODAL$PARAMETERS": {
         "en": "Parameters:",
@@ -7734,7 +7734,7 @@
         "pt": "Parâmetros:",
         "es": "Parámetros:",
         "tr": "Parametreler:",
-        "uk": "Parameters:"
+        "uk": "Параметри:"
     },
     "SYSTEM_MESSAGE_MODAL$NO_TOOLS": {
         "en": "No tools available for this agent",
@@ -7750,7 +7750,7 @@
         "pt": "Nenhuma ferramenta disponível para este agente",
         "es": "No hay herramientas disponibles para este agente",
         "tr": "Bu ajan için kullanılabilir araç yok",
-        "uk": "No tools available for this agent"
+        "uk": "Для цього агента немає доступних інструментів"
     },
     "TOS$ACCEPT_TERMS_OF_SERVICE": {
         "en": "Accept Terms of Service",
@@ -7763,7 +7763,7 @@
         "de": "Nutzungsbedingungen akzeptieren",
         "it": "Accetta i termini di servizio",
         "pt": "Aceitar termos de serviço",
-        "uk": "Accept Terms of Service"
+        "uk": "Прийняти Умови надання послуг"
     },
     "TOS$ACCEPT_TERMS_DESCRIPTION": {
         "en": "Please review and accept our terms of service before continuing",
@@ -7776,7 +7776,7 @@
         "de": "Bitte überprüfen und akzeptieren Sie unsere Nutzungsbedingungen, bevor Sie fortfahren",
         "it": "Si prega di rivedere e accettare i nostri termini di servizio prima di continuare",
         "pt": "Por favor, revise e aceite nossos termos de serviço antes de continuar",
-        "uk": "Please review and accept our terms of service before continuing"
+        "uk": "Будь ласка, ознайомтеся та прийміть наші умови надання послуг, перш ніж продовжити"
     },
     "TOS$CONTINUE": {
         "en": "Continue",
@@ -7789,7 +7789,7 @@
         "de": "Fortfahren",
         "it": "Continua",
         "pt": "Continuar",
-        "uk": "Continue"
+        "uk": "Продовжити"
     },
     "TOS$ERROR_ACCEPTING": {
         "en": "Error accepting Terms of Service",
@@ -7802,7 +7802,7 @@
         "de": "Fehler beim Akzeptieren der Nutzungsbedingungen",
         "it": "Errore nell'accettazione dei Termini di Servizio",
         "pt": "Erro ao aceitar os Termos de Serviço",
-        "uk": "Error accepting Terms of Service"
+        "uk": "Помилка прийняття Умов обслуговування"
     },
     "TIPS$CUSTOMIZE_MICROAGENT": {
         "en": "You can customize OpenHands for your repo using a microagent. Ask OpenHands to put a description of the repo, including how to run the code, into .openhands/microagents/repo.md.",
@@ -7818,7 +7818,7 @@
         "fr": "Vous pouvez personnaliser OpenHands pour votre dépôt en utilisant un micro-agent. Demandez à OpenHands de mettre une description du dépôt, y compris comment exécuter le code, dans .openhands/microagents/repo.md.",
         "tr": "Bir mikro ajan kullanarak deponuz için OpenHands'i özelleştirebilirsiniz. OpenHands'ten kodun nasıl çalıştırılacağı da dahil olmak üzere deponun açıklamasını .openhands/microagents/repo.md dosyasına koymasını isteyin.",
         "de": "Sie können OpenHands für Ihr Repository mit einem Mikroagenten anpassen. Bitten Sie OpenHands, eine Beschreibung des Repositorys, einschließlich der Ausführung des Codes, in .openhands/microagents/repo.md zu platzieren.",
-        "uk": "You can customize OpenHands for your repo using a microagent. Ask OpenHands to put a description of the repo, including how to run the code, into .openhands/microagents/repo.md."
+        "uk": "Ви можете налаштувати OpenHands для вашого репозиторію за допомогою мікроагента. Попросіть OpenHands розмістити опис репозиторію, включаючи інструкції з запуску коду, у файлі .openhands/microagents/repo.md."
     },
     "TIPS$SETUP_SCRIPT": {
         "en": "You can add .openhands/setup.sh to your repository to automatically run a setup script every time you start an OpenHands conversation.",
@@ -7834,7 +7834,7 @@
         "fr": "Vous pouvez ajouter .openhands/setup.sh à votre dépôt pour exécuter automatiquement un script de configuration chaque fois que vous démarrez une conversation OpenHands.",
         "tr": "OpenHands konuşması başlattığınız her seferinde otomatik olarak bir kurulum betiği çalıştırmak için deponuza .openhands/setup.sh ekleyebilirsiniz.",
         "de": "Sie können .openhands/setup.sh zu Ihrem Repository hinzufügen, um jedes Mal, wenn Sie ein OpenHands-Gespräch starten, automatisch ein Setup-Skript auszuführen.",
-        "uk": "You can add .openhands/setup.sh to your repository to automatically run a setup script every time you start an OpenHands conversation."
+        "uk": "Ви можете додати .openhands/setup.sh до свого репозиторію, щоб автоматично запускати скрипт налаштування щоразу, коли ви починаєте розмову OpenHands."
     },
     "TIPS$VSCODE_INSTANCE": {
         "en": "Every OpenHands conversation comes with a VS Code instance, where you can interact with the development environment.",
@@ -7850,7 +7850,7 @@
         "fr": "Chaque conversation OpenHands est accompagnée d'une instance VS Code, où vous pouvez interagir avec l'environnement de développement.",
         "tr": "Her OpenHands konuşması, geliştirme ortamıyla etkileşimde bulunabileceğiniz bir VS Code örneği ile birlikte gelir.",
         "de": "Jedes OpenHands-Gespräch wird mit einer VS Code-Instanz geliefert, in der Sie mit der Entwicklungsumgebung interagieren können.",
-        "uk": "Every OpenHands conversation comes with a VS Code instance, where you can interact with the development environment."
+        "uk": "Кожна розмова OpenHands постачається з екземпляром VS Code, де ви можете взаємодіяти із середовищем розробки."
     },
     "TIPS$SAVE_WORK": {
         "en": "Be sure to regularly save your work, either by pushing to GitHub or by downloading your files via VS Code.",
@@ -7866,7 +7866,7 @@
         "fr": "Assurez-vous de sauvegarder régulièrement votre travail, soit en le poussant vers GitHub, soit en téléchargeant vos fichiers via VS Code.",
         "tr": "GitHub'a göndererek veya VS Code aracılığıyla dosyalarınızı indirerek çalışmalarınızı düzenli olarak kaydettiğinizden emin olun.",
         "de": "Stellen Sie sicher, dass Sie Ihre Arbeit regelmäßig speichern, entweder durch Pushen zu GitHub oder durch Herunterladen Ihrer Dateien über VS Code.",
-        "uk": "Be sure to regularly save your work, either by pushing to GitHub or by downloading your files via VS Code."
+        "uk": "Обов’язково регулярно зберігайте свою роботу, або завантажуючи її на GitHub, або завантажуючи файли через VS Code."
     },
     "TIPS$SPECIFY_FILES": {
         "en": "When possible, include the names of files or functions OpenHands should focus on. This can help OpenHands work faster, save money, and improve accuracy.",
@@ -7882,7 +7882,7 @@
         "fr": "Lorsque c'est possible, incluez les noms des fichiers ou des fonctions sur lesquels OpenHands devrait se concentrer. Cela peut aider OpenHands à travailler plus rapidement, à économiser de l'argent et à améliorer la précision.",
         "tr": "Mümkün olduğunda, OpenHands'in odaklanması gereken dosya veya fonksiyon isimlerini dahil edin. Bu, OpenHands'in daha hızlı çalışmasına, para tasarrufu sağlamasına ve doğruluğu artırmasına yardımcı olabilir.",
         "de": "Wenn möglich, geben Sie die Namen der Dateien oder Funktionen an, auf die sich OpenHands konzentrieren soll. Dies kann OpenHands helfen, schneller zu arbeiten, Geld zu sparen und die Genauigkeit zu verbessern.",
-        "uk": "When possible, include the names of files or functions OpenHands should focus on. This can help OpenHands work faster, save money, and improve accuracy."
+        "uk": "Коли це можливо, вказуйте назви файлів або функцій, на яких має зосередитися OpenHands. Це може допомогти OpenHands працювати швидше, заощадити гроші та підвищити точність."
     },
     "TIPS$HEADLESS_MODE": {
         "en": "You can run OpenHands in headless mode to create automations, like responding to 500 errors by automatically creating a fix.",
@@ -7898,7 +7898,7 @@
         "fr": "Vous pouvez exécuter OpenHands en mode headless pour créer des automatisations, comme répondre aux erreurs 500 en créant automatiquement un correctif.",
         "tr": "OpenHands'i başsız modda çalıştırarak, 500 hatalarına otomatik olarak düzeltme oluşturarak yanıt vermek gibi otomasyonlar oluşturabilirsiniz.",
         "de": "Sie können OpenHands im Headless-Modus ausführen, um Automatisierungen zu erstellen, wie z.B. das Reagieren auf 500-Fehler durch automatisches Erstellen einer Lösung.",
-        "uk": "You can run OpenHands in headless mode to create automations, like responding to 500 errors by automatically creating a fix."
+        "uk": "Ви можете запускати OpenHands в headless режимі для створення автоматизації, наприклад, реагування на 500 помилок шляхом автоматичного створення виправлення."
     },
     "TIPS$CLI_MODE": {
         "en": "You can run OpenHands as a CLI, similar to Claude Code.",
@@ -7914,7 +7914,7 @@
         "fr": "Vous pouvez exécuter OpenHands en tant que CLI, similaire à Claude Code.",
         "tr": "OpenHands'i Claude Code'a benzer şekilde bir CLI olarak çalıştırabilirsiniz.",
         "de": "Sie können OpenHands als CLI ausführen, ähnlich wie Claude Code.",
-        "uk": "You can run OpenHands as a CLI, similar to Claude Code."
+        "uk": "Ви можете запускати OpenHands як CLI, подібно до Claude Code."
     },
     "TIPS$GITHUB_HOOK": {
         "en": "OpenHands Cloud offers a GitHub hook, so you can say \"@openhands fix the merge conflicts\" or \"@openhands fix the feedback on this PR\" right inside the GitHub UI.",
@@ -7930,7 +7930,7 @@
         "fr": "OpenHands Cloud propose un hook GitHub, vous pouvez donc dire \"@openhands fix the merge conflicts\" ou \"@openhands fix the feedback on this PR\" directement dans l'interface GitHub.",
         "tr": "OpenHands Cloud, GitHub kancası sunar, böylece GitHub arayüzünde doğrudan \"@openhands birleştirme çakışmalarını düzelt\" veya \"@openhands bu PR'daki geri bildirimi düzelt\" diyebilirsiniz.",
         "de": "OpenHands Cloud bietet einen GitHub-Hook, sodass Sie \"@openhands fix the merge conflicts\" oder \"@openhands fix the feedback on this PR\" direkt in der GitHub-Benutzeroberfläche sagen können.",
-        "uk": "OpenHands Cloud offers a GitHub hook, so you can say \"@openhands fix the merge conflicts\" or \"@openhands fix the feedback on this PR\" right inside the GitHub UI."
+        "uk": "OpenHands Cloud пропонує хук GitHub, тож ви можете сказати «@openhands виправити конфлікти злиття» або «@openhands виправити відгук про цей PR» прямо в інтерфейсі GitHub."
     },
     "TIPS$BLOG_SIGNUP": {
         "en": "Sign up for the OpenHands Blog to hear about new features and the latest releases.",
@@ -7946,7 +7946,7 @@
         "fr": "Inscrivez-vous au blog OpenHands pour connaître les nouvelles fonctionnalités et les dernières versions.",
         "tr": "Yeni özellikler ve en son sürümler hakkında bilgi almak için OpenHands Blog'a kaydolun.",
         "de": "Melden Sie sich für den OpenHands Blog an, um über neue Funktionen und die neuesten Versionen informiert zu werden.",
-        "uk": "Sign up for the OpenHands Blog to hear about new features and the latest releases."
+        "uk": "Підпишіться на блог OpenHands, щоб дізнаватися про нові функції та останні релізи."
     },
     "TIPS$API_USAGE": {
         "en": "OpenHands has an API! Create OpenHands conversations with simple cURL command.",
@@ -7962,7 +7962,7 @@
         "fr": "OpenHands a une API ! Créez des conversations OpenHands avec une simple commande cURL.",
         "tr": "OpenHands'in bir API'si var! Basit bir cURL komutuyla OpenHands konuşmaları oluşturun.",
         "de": "OpenHands hat eine API! Erstellen Sie OpenHands-Gespräche mit einem einfachen cURL-Befehl.",
-        "uk": "OpenHands has an API! Create OpenHands conversations with simple cURL command."
+        "uk": "OpenHands має API! Створюйте розмови OpenHands за допомогою простої команди cURL."
     },
     "TIPS$LEARN_MORE": {
         "en": "Learn more",
@@ -7978,7 +7978,7 @@
         "fr": "En savoir plus",
         "tr": "Daha fazla bilgi",
         "de": "Mehr erfahren",
-        "uk": "Learn more"
+        "uk": "Дізнатися більше"
     },
     "TIPS$PROTIP": {
         "en": "Protip",
@@ -7994,6 +7994,6 @@
         "fr": "Astuce pro",
         "tr": "Uzman ipucu",
         "de": "Profi-Tipp",
-        "uk": "Protip"
+        "uk": "Порада професіонала"
     }
 }
